@@ -34,26 +34,6 @@ Notes: STICKERS!
 
 Footer: false
 
-<!-- .slide: data-background="/images/star-student.jpg" -->
-
-Notes:
-
-My kids when they were in kindergarten got to make a huge poster when they were the "star student"
-
-Where they put everything you need to know about them
-
-So I did the same
-
-- Milwaukee
-- JS
-- Super cool letter S
-- Family
-- Outdoors/trail running
-
----
-
-Footer: false
-
 <!-- .slide: data-background="/images/artsy.svg" data-background-size="750px" data-background-color="black" -->
 
 Notes:
@@ -65,3 +45,85 @@ NYC, MKE
 our mission is to expand the art market,
 
 and we're doing that with a platform for collecting and discovering art.
+
+---
+
+TODO: image of JS
+
+Notes:
+
+I love JavaScript
+
+I have for years. I started working with it at the beginning of my career, in 1999.
+
+JS in 1999 - _that's_ a scary thing.
+
+---
+
+TODO: image of trail running
+
+Notes:
+
+I'm a trail runner.
+
+I'm a runner in general...but the trails really speak to me.
+
+I love the sense of focus I feel on a trail -
+
+it's my personal form of meditation,
+
+living in the moment of every single step over every single rock.
+
+...
+
+I just ran a half-marathon on trails in SE wisconsin, beating my goal of 2h by 1min.
+
+---
+
+TODO: image of CCC
+
+[creamcitycode.com](creamcitycode.com)
+
+Notes:
+
+I'm an organizer of the Cream City Code conference, in Milwaukee.
+
+It was last weekend, did anyone go?
+
+---
+
+[stevenhicks.me/articles](stevenhicks.me/articles)
+
+[artsy.github.io](artsy.github.io)
+
+Notes:
+
+I'm a writer, at these URLs
+
+---
+
+TODO: image of speaking
+
+Notes:
+
+I'm a speaker
+
+I've spoken at conferences throughout the Midwest, giving over 40 talks.
+
+---
+
+TODO: image of workshop
+
+Notes:
+
+I'm a teacher
+
+I currently teach workshops on React and TDD
+
+Plug upcoming event in October
+
+...
+
+Three years ago, the only one of these identities I could claim was that of a developer.
+
+Something something overcome fear for incredible growth.

@@ -1,0 +1,314 @@
+---
+
+TODO: image of fear
+
+# Fear
+
+Notes:
+
+What do we fear?
+
+...
+
+luckily for us, someone does a survey
+
+---
+
+TODO: chapman university survey info
+
+Notes:
+
+Chapman University in ??? does an annual survey of fears amongst Americans.
+
+And there's a lot of fears in there that many of us sympathize with.
+
+...
+
+#1 for 2018 - any guesses?
+
+---
+
+TODO: image of 1. Corruption of government officials
+
+Notes:
+
+I'm not saying which officials are corrupt...
+
+But I think folks of all different beliefs fear this
+
+---
+
+TODO: image of Environmental:
+
+- 2. Pollution of waterways (62%)
+- 3. Pollution of drinking water (61%)
+- 7. Pollution of air (55%)
+- 8. Extinction of plant and animal species (54%)
+- 9. Global warming/climate change (53%)
+
+Notes:
+
+Many of the top-rated fears were related to the environment
+
+---
+
+TODO: image of Financial:
+
+- 4. Not having enough \$\$ for future (57%)
+- 10. High medical bills (53%)
+
+Notes:
+
+Financial/economic
+
+---
+
+TODO: image Health:
+
+- 5. People I love becoming seriously ill (57%)
+- 6. People I love dying (56%)
+
+Notes:
+
+...
+
+and that's great and fun, and we could look at this list all day,
+
+but it's impersonal.
+
+I want to get more personal.
+
+starting with some PRIMAL fears
+
+---
+
+TODO: image of dog
+
+Notes:
+
+I fear dogs
+
+Strange dogs, mostly
+
+not high on chapman's list - 94th, 3.7%
+
+(story of being bit)
+
+fears can be passed on to our children: story of Lila
+
+---
+
+TODO: image of snake
+
+Notes:
+
+Significantly more common - 62nd/24%
+
+I am creeped out by how they move
+
+...
+
+not ALL fears are passed on to our children
+
+---
+
+TODO: image of Olivia with snakes
+
+Notes:
+
+story of Olivia
+
+---
+
+TODO: zoom of Olivia with snakes
+
+---
+
+TODO: image of mashed potatoes
+
+Notes:
+
+I found out my dad is afraid of not being understood
+
+(story of mashed potatoes in kfc in costa rica)
+
+---
+
+TODO: image of getting old
+
+Notes:
+
+I have some more long-term fears, too
+
+like a fear of getting old
+
+about schmidt?
+
+Jack Nicholson plays a retiree who finds himself **more and more alone**
+
+as he gets older
+
+...
+
+When I watched this movie, my stomach hurt so bad from fear,
+
+I wanted to curl into a ball the whole time.
+
+And I don't think it was until I saw this movie that I realized how much I feared getting old.
+
+---
+
+TODO: image of Steph
+
+Notes:
+
+i fear that I'm not good enough for my wife.
+
+She'll get sick of my **emotional immaturity**
+
+and leave me
+
+...
+
+This fear is really about **relationships**
+
+and I think I'm not alone in fearing that I'm going to mess up a relationship.
+
+...
+
+some people fear
+
+- being in them
+- not being in them
+- messing them up
+- raising kids poorly
+
+---
+
+TODO: image of work
+
+Notes:
+
+and work. Who has fears about work?
+
+Who _doesn't_ have fears about work?
+
+- I get incredible anxiety over sending a calendar invite to more than 2 people.
+- taking a job you'll regret
+- asking for a raise - uncomfortable conversations
+- telling my boss how I really feel - afraid I'll get fired
+- take ownership of a feature/project/system - afraid of the commitment
+
+---
+
+TODO: image of acceptance
+
+Notes:
+
+then there's another subclass of fears
+
+that deal with **acceptance from our peers**
+
+---
+
+TODO: image of self-promotion
+
+Notes:
+
+i fear self-promotion
+
+i fear being rejected as being **too braggy**
+
+or being found out that I'm **not worth self-promoting**
+
+I did a whole lot of it at the beginning of this talk, and _it was excruciating_.
+
+I went back and forth on pulling those slides out 25 times.
+
+---
+
+TODO: image of looking dumb
+
+Notes:
+
+lack of knowledge
+
+i'm going to look dumb
+
+i.e. imposter syndrome
+
+---
+
+TODO: image of public speaking
+
+Notes:
+
+many fear public speaking
+
+you might have heard that people fear it more than death
+
+According to the Chapman research, **not true**.
+
+27.9% for death, 26% for public speaking
+
+...
+
+and these fears, and many like them, are all kind of the **same basic fear**
+
+---
+
+TODO: image of rejection
+
+Notes:
+
+the fear of rejection
+
+these fears of rejection are what i'm really interested in today
+
+because these are the fears that prevent us from doing great things with our career
+
+from deciding to **publish a blog**
+
+or a **book**
+
+or **start speaking**
+
+or take on a **new role or responsibilities** that we think are really neat
+
+but are too scared of
+
+or **quitting our job and going freelance**
+
+---
+
+TODO: image of speaking again?
+
+Notes:
+
+On a personal level, overcoming these kinds of fears are the best move I've made in my career
+
+It got me speaking across the Midwest, into Canada, and here today in front of you as a keynote speaker
+
+And that got me my current job - my friend Jon from Artsy came to one of my talks
+
+I'm hopeful that helping you overcome your fears can change your life like it's changed mine.
+
+---
+
+TODO: legit help info
+
+Notes:
+
+A really quick disclaimer:
+
+I am not a professional psychologist, and I am making shit up.
+
+The "fear" I'm talking about today is not the kind of fear based on terrifying life events,
+
+that leaves you curled up in a ball in a corner or unable to function.
+
+I don't have any ability to discuss, diagnose, or treat that level of fear.
+
+I _do_ have the ability to support you and assist you in finding help - so if that describes you, and you _want_ help, I'll help you get in contact with someone. See me later.
+
+For this talk, I'm speaking about the kinds of fears that hinder you from being the best version of you.
