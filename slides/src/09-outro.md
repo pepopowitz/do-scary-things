@@ -4,7 +4,7 @@ Footer: false
 
 <!-- .slide: data-background="/images/drawings/some-title.jpg" class="title" -->
 
-# Thank you!
+# **Thank you!**
 
 ## Steven Hicks
 

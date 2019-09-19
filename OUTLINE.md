@@ -142,6 +142,7 @@ I fear...
 ## Eisenhower decision matrix
 ### Steve Hicks Risk Matrix
 ## TODO: more here from getting unstuck? incubation? 
+
 # Perspective
 ## Embrace Failure
 ### Thomas Edison quote VOMIT

@@ -302,7 +302,7 @@ They come from a few emotional places.
 
 ---
 
-# We are concerned how others perceive us
+# We are concerned how **others perceive us**
 
 Notes:
 
@@ -349,7 +349,7 @@ another thing that happens with fear:
 
 # We see others succeed
 
-## and compare ourselves to them
+## **and compare ourselves to them**
 
 Notes:
 
@@ -381,7 +381,7 @@ and all those twists and turns
 
 ---
 
-# We see ourselves failing
+# We see ourselves **failing**
 
 Notes:
 
