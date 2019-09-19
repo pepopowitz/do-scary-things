@@ -24,8 +24,8 @@ What do we fear?
 I fear...
 
 ### primal fears
-#### snakes (62/24.1 %)
 #### dogs (94/3.7)
+#### snakes (62/24.1 %)
 #### NEW: my dad - afraid of not being understood (he just wants the mashed potatoes)
 
 ### long term fears
@@ -123,6 +123,7 @@ I fear...
 ### New: Cartoon voice
 ### power pose
 ### mountain pose
+### mantras
 ### recognize/identify/name the emotion
 ### Mindfulness/meditation
 #### New: talk about my meditation habit! Setting myself up for success every day. (And potentially more about habits?)
@@ -130,7 +131,7 @@ I fear...
 ## Time travel
 ### Invert milestones
 ### Envision Future You
-
+#### end goals vs means goals
 
 # Problem Solving
 ## Identify the crux

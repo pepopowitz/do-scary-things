@@ -94,8 +94,6 @@ not high on chapman's list - 94th, 3.7%
 
 (story of being bit)
 
-fears can be passed on to our children: story of Lila
-
 ---
 
 TODO: image of snake
@@ -105,22 +103,6 @@ Notes:
 Significantly more common - 62nd/24%
 
 I am creeped out by how they move
-
-...
-
-not ALL fears are passed on to our children
-
----
-
-TODO: image of Olivia with snakes
-
-Notes:
-
-story of Olivia
-
----
-
-TODO: zoom of Olivia with snakes
 
 ---
 
