@@ -222,7 +222,7 @@ The structure at the center of your fight or flight reactions
 
 is called the amygdala
 
-(Note: you might have heard it's responsible for fear, but it's only part of a system.)
+(you might have heard it's responsible for fear, but it's only part of a system.)
 
 It is basically like the **smoke alarm** in our brain.
 

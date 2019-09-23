@@ -111,7 +111,7 @@ function injectLineNumbers(slide) {
 function identifyBackground(layout) {
   const backgroundColors = {
     title: 'var(--brand)',
-    module: 'var(--brand-context)',
+    module: 'var(--brand-module-bg)',
   };
   if (backgroundColors[layout]) {
     return `data-background="${backgroundColors[layout]}"`;

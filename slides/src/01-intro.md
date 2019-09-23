@@ -1,6 +1,6 @@
 Footer: false
 
-<!-- .slide: data-background="/images/some-title.jpg" class="title" -->
+<!-- .slide: data-background="/images/cover.png" class="title" -->
 
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" style="width:0;height:0;position:absolute;overflow:hidden;">
   <defs>

@@ -19,3 +19,38 @@ So I did the same
 - Outdoors/trail running
 
 ---
+
+
+
+
+---
+
+Trail: Presence, Envision Future You
+
+# End Goals vs. Means Goals
+
+Notes:
+
+...
+
+and finally, my absolute silliest suggestion of the day
+
+---
+
+Trail: Presence
+
+# Cartoon Voice
+
+Notes:
+
+maybe ditch this one
+
+Repeat your fears in a silly cartoon voice
+
+I'm serious
+
+"I'm afraid of snakes because they move funny"
+
+It sounds ridiculous, doesn't it?
+
+Helps me recognize how goofy my fears are sometimes

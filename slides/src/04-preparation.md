@@ -12,6 +12,8 @@ I'd like to offer you some strategies for overcoming the fears that are holding 
 
 ---
 
+Layout: module
+
 # Preparation
 
 Notes:

@@ -14,7 +14,7 @@ height: '100%'
 ---
 Footer: false
 
-<!-- .slide: data-background="/images/some-title.jpg" class="title" -->
+<!-- .slide: data-background="/images/cover.png" class="title" -->
 
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" style="width:0;height:0;position:absolute;overflow:hidden;">
   <defs>
@@ -157,11 +157,13 @@ luckily for us, someone does a survey
 
 ---
 
-TODO: chapman university survey info
+## Chapman University Survey
+
+## of American Fears
 
 Notes:
 
-Chapman University in ??? does an annual survey of fears amongst Americans.
+Chapman University in California does an annual survey of fears amongst Americans.
 
 And there's a lot of fears in there that many of us sympathize with.
 
@@ -171,7 +173,9 @@ And there's a lot of fears in there that many of us sympathize with.
 
 ---
 
-TODO: image of 1. Corruption of government officials
+Trail: Chapman University Survey of American Fears
+
+## 74% **Corrupt government officials**
 
 Notes:
 
@@ -181,13 +185,19 @@ But I think folks of all different beliefs fear this
 
 ---
 
-TODO: image of Environmental:
+Layout: list
 
-- 2. Pollution of waterways (62%)
-- 3. Pollution of drinking water (61%)
-- 7. Pollution of air (55%)
-- 8. Extinction of plant and animal species (54%)
-- 9. Global warming/climate change (53%)
+Trail: Chapman University Survey of American Fears
+
+### 62% **Pollution of waterways**
+
+### 61% **Pollution of drinking water**
+
+### 55% **Pollution of air**
+
+### 54% **Extinction of plants and animals**
+
+### 53% **Global warming/climate change**
 
 Notes:
 
@@ -195,10 +205,13 @@ Many of the top-rated fears were related to the environment
 
 ---
 
-TODO: image of Financial:
+Layout: list
 
-- 4. Not having enough \$\$ for future (57%)
-- 10. High medical bills (53%)
+Trail: Chapman University Survey of American Fears
+
+### 57% **Not having enough money for future**
+
+### 53% **High medical bills**
 
 Notes:
 
@@ -206,10 +219,13 @@ Financial/economic
 
 ---
 
-TODO: image Health:
+Layout: list
 
-- 5. People I love becoming seriously ill (57%)
-- 6. People I love dying (56%)
+Trail: Chapman University Survey of American Fears
+
+### 57% **People I love becoming seriously ill**
+
+### 56% **People I love dying**
 
 Notes:
 
@@ -231,9 +247,11 @@ Notes:
 
 I fear dogs
 
-Strange dogs, mostly
+Strange dogs, especially
 
-not high on chapman's list - 94th, 3.7%
+not high on chapman's list -
+
+**3.7%**
 
 (story of being bit)
 
@@ -243,7 +261,9 @@ TODO: image of snake
 
 Notes:
 
-Significantly more common - 62nd/24%
+Significantly more common -
+
+**24%**
 
 I am creeped out by how they move
 
@@ -661,7 +681,7 @@ The structure at the center of your fight or flight reactions
 
 is called the amygdala
 
-(Note: you might have heard it's responsible for fear, but it's only part of a system.)
+(you might have heard it's responsible for fear, but it's only part of a system.)
 
 It is basically like the **smoke alarm** in our brain.
 
@@ -905,6 +925,8 @@ I'd like to offer you some strategies for overcoming the fears that are holding 
 
 ---
 
+Layout: module
+
 # Preparation
 
 Notes:
@@ -1108,6 +1130,545 @@ If we spend our time focusing on failures, instead of successes,
 we can end up self-handicapping.
 
 This is when we avoid effort to keep failure from hurting us.
+---
+Layout: module
+
+# Practice
+
+Notes:
+
+Second group of strategies: Practice
+
+Implement practices to help yourself get better at overcoming fear
+
+---
+
+Trail: Practice
+
+# Fear-setting
+
+Notes:
+
+Explained by Tim Ferriss in a TED Talk
+
+on why you should define your fears instead of your goals.
+
+---
+
+Trail: Practice, Fear-setting
+
+> ...visualizing the worst-case scenarios, in detail, that you fear, preventing you from taking action, so that you can take action to overcome that paralysis.
+
+[Tim Ferriss](https://www.ted.com/talks/tim_ferriss_why_you_should_define_your_fears_instead_of_your_goals)
+
+Notes:
+
+He suggests...
+
+---
+
+Trail: Practice, Fear-setting
+
+TODO: image of fear-setting/define
+
+Notes:
+
+And he asks you to make three lists.
+
+1. Define: define your fears.
+
+What are you most afraid of happening that is keeping you from doing something?
+
+---
+
+Trail: Practice, Fear-setting
+
+TODO: image of fear-setting/prevent
+
+Notes:
+
+2. Prevent: what are some actual steps you can take
+
+to prevent these things from happening?
+
+---
+
+Trail: Practice, Fear-setting
+
+TODO: image of fear-setting/repair
+
+Notes:
+
+And if it _did_ happen, how could you recover from it?
+
+That's the 3rd list.
+
+...
+
+This is not all there is to fear-setting, and you can see the rest in Tim's video,
+
+but this should get you started thinking about how you could overcome
+
+the nightmare scenarios your fears dream up.
+
+---
+
+Trail: Practice
+
+# Rejection Therapy
+
+Notes:
+
+experiment by Jia Jiang
+
+---
+
+Trail: Practice, Rejection Therapy
+
+> My goal was to **desensitize myself** from the pain of rejection and overcome my fear
+
+[Jia Jiang, rejectiontherapy.com](http://www.rejectiontherapy.com/)
+
+Notes:
+
+[jyyaaa jyahng]
+
+he did this by forcing himself to be rejected
+
+for 100 days straight.
+
+from asking the cheesecake factory to sing him happy birthday when it wasn't his birthday
+
+to trying to meet former president obama
+
+...
+
+There's a couple quotes from Jia that I think are really remarkable
+
+---
+
+Trail: Practice, Rejection Therapy
+
+> Our imagination often takes us to the worst possible outcome, causing us to be much less likely to take that action. **We are really our own worst rejectors.**
+
+[Jia Jiang, rejectiontherapy.com](https://www.rejectiontherapy.com/blog/2013/08/06/rejection-99-ask-strangers-to-rate-my-look/)
+
+Notes:
+
+...How true is that...
+
+---
+
+Trail: Practice, Rejection Therapy
+
+> My rejection therapy taught me that "the worst they can say is no" is actually not true. In fact, the worst they can say is **"you didn't even ask."** It implies **I said "no" to myself** before others could reject me.
+
+[Jia Jiang, rejectiontherapy.com](https://www.rejectiontherapy.com/blog/2013/09/04/rejection-100-why-i-want-to-meet-obama/)
+
+Notes:
+
+How many times have you done this?
+
+---
+
+Trail: Practice
+
+# Rejection Ritual
+
+Notes:
+
+If you're going to be doing something that you know is going to involve a lot of rejection
+
+(speaking, applying for jobs, etc)
+
+Define a routine for yourself for every time you receive a rejection.
+
+---
+
+Layout: list
+
+Trail: Practice, Rejection Ritual
+
+## 1. Send a thank you
+
+## 2. Review praise & accomplishments
+
+<!-- .element: class="fragment" -->
+
+## 3. Submit two more
+
+<!-- .element: class="fragment" -->
+
+Notes:
+
+1. for considering you
+
+2. that you've received elsewhere
+
+3.
+
+Write this down, commit it to memory, don't forget to do it!
+
+---
+
+Layout: list
+Trail: Practice, Rejection Ritual, Why?
+
+## 1. Severs emotional ties
+
+## 2. Shifts self-talk
+
+<!-- .element: class="fragment" -->
+
+## 3. Habits make decisions for you
+
+<!-- .element: class="fragment" -->
+
+Notes:
+
+1. you're thinking about this fear logically instead of emotionally
+
+slowing it down so system 2 can process it
+
+2. to something positive, instead of dwelling on another failure,
+
+and wondering what's wrong with you
+
+3. When you build a habit, your response becomes automatic
+
+You don't have to think about it - you're more likely to do the thing you want to do
+---
+
+Layout: module
+
+# Presence
+
+Notes: 
+
+Third set of strategies focus on physical presence, 
+
+and being present in the moment
+
+---
+
+Trail: Presence
+
+# Maintain A Strong And Mindful Presence
+
+---
+
+Trail: Presence, Strong And Mindful
+
+# Power Pose
+
+Notes:
+
+Amy Cuddy - stand in a position of power to improve your confidence
+
+Some question about science behind this
+
+But if you feel better standing like a superhero, do it.
+
+---
+
+Trail: Presence, Strong And Mindful
+
+# Mountain Pose
+
+Notes:
+
+I use a different power pose
+
+---
+
+Trail: Presence, Strong And Mindful
+
+# Physical Exercise
+
+Notes:
+
+Improves mood -
+
+Can reduce anxiety & depression
+
+I used to be a late-night exerciser, but then I started noticing when I did it in the morning,
+
+I felt great the rest of the day.
+
+---
+
+Trail: Presence, Strong And Mindful
+
+# Recognize And Name The Emotion
+
+Notes:
+
+Fear is a pretty general emotion, and it can be helpful for you to be more specific about what's going on
+
+---
+
+Trail: Presence, Strong And Mindful, Recognize/Name Emotions
+
+<div class="double-wide">
+  <h3>insecure</h3>
+  <h3>inadequate</h3>
+  <h3>anxious</h3>
+  <h3>threatened</h3>
+  <h3>trapped</h3>
+  <h3>lonely</h3>
+</div>
+
+Notes:
+
+Here are some more specific fearful emotions you might feel:
+
+...
+
+The act of trying to name your emotion also slows your body down.
+
+Gives system 2 some time to catch up.
+
+---
+
+Trail: Presence, Strong And Mindful
+
+# Meditation
+
+Notes:
+
+Possible Benefits -
+
+1. Levels emotional responses, you become better at treating emotions as facts, not inescapable feelings
+
+2. Increases your persistence
+
+...
+
+For years I've been trying to start a meditation habit
+
+This year, I'm finally making real progress
+
+I started tracking my daily mood, and I noticed my best days
+
+were the days I got a morning workout & I meditated.
+
+Now I do it regularly, setting myself up for success every day.
+
+---
+
+Trail: Presence, Strong And Mindful
+
+# Positive Self-talk
+
+Notes:
+
+Negative self-talk increases the difficulty of any activity
+
+That nagging voice encourages you to give up, or choose poorly
+
+Choose different words.
+
+Talk about yourself the way you'd talk about a friend.
+
+---
+
+Trail: Presence, Strong And Mindful
+
+# Mantras
+
+Notes:
+
+A very specific type of self-talk
+
+Mantras are words or short phrases you can use as an anchor point
+
+When you notice that you've lost your focus,
+
+repeat them in your head
+
+and return to them.
+
+---
+
+Trail: Presence, Strong And Mindful, Mantras
+
+> Strong like Steph; focused like Olivia; light like Lila.
+
+> **Action conquers fear.**
+
+> I control my emotions, they do not control me.
+
+---
+
+Trail: Presence
+
+# Time Travel
+
+Notes:
+
+There are some tricks we can play with our mind to overcome fear.
+
+There are powerful things we can do with our imagination and time.
+
+---
+
+Trail: Presence, Time Travel
+
+# Invent Milestones
+
+Notes:
+
+"This time next week, I will be sitting down with a beer, after having quit my job to start my own company."
+
+---
+
+Trail: Presence
+
+# Envision Future You
+
+Notes:
+
+The you three years from now
+
+who is giving their first keynote
+
+looking back on this first-ever talk you're about to give.
+---
+Layout: module
+
+# Problem Solving
+
+Notes:
+
+The next group is Problem Solving.
+
+Which, as developers, we are really good at.
+
+And I recommend a simple approach to solving big, scary problems:
+
+---
+
+Layout: list
+
+Trail: Problem Solving
+
+## **1. Identify The Crux**
+
+TODO: image of climber?
+
+Notes:
+
+In climbing, there is the notion of "the crux" on every route.
+
+It is the single hardest move on the route
+
+Routes in climbing have ratings,
+
+and those ratings are generally based on the crux.
+
+...
+
+The key, with the crux, is get yourself into the right position that you can make that one move.
+
+And then plan your route backwards from there.
+
+...
+
+In the context of doing something scary, I'd consider the crux
+
+the absolute scariest part. The thing you are most terrified of.
+
+Get as specific as you can, because step 2....
+
+---
+
+Layout: list
+
+Trail: Problem Solving
+
+## 1. Identify The Crux
+
+## **2. Eat The Frog**
+
+Notes:
+
+---
+
+Trail: Problem Solving, 2. Eat The Frog
+
+> Eat a live frog first thing in the morning and nothing worse will happen to you the rest of the day.
+
+Mark Twain
+
+Notes:
+
+---
+
+Layout: list
+
+Trail: Problem Solving
+
+## 1. Identify The Crux
+
+## 2. Eat The Frog
+
+## **3. Repeat**
+
+<!-- .element: class="fragment" -->
+
+Notes:
+
+Find the _next_ scariest part, and figure out a way to address it.
+
+...
+
+And that's a pretty good way to handle any real-life problem.
+
+Especially a big scary one.
+
+Iterate over the scariest parts.
+
+...
+
+And this is pretty similar to the approach DDEisenhower used to manage his time.
+
+---
+
+Trail: Problem Solving
+
+## Eisenhower Decision Matrix
+
+TODO: image of eisenhower decision matrix
+
+Notes:
+
+(explain)
+
+but in regards to overcoming fear,
+
+I think it makes more sense as...
+
+---
+
+Trail: Problem Solving
+
+## **Steve Hicks** Risk Matrix
+
+TODO: image of Steve Hicks risk matrix
+
+Notes:
+
+Identify the most scary thing....
+Then eat the frog.
+Then the next....
+
+...
+
+And what we're really doing...
+
+is the same thing we do every day as developers.
+
+Breaking a problem down into smaller problems.
 ---
 
 Footer: false

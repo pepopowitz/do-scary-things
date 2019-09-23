@@ -1,9 +1,8 @@
 body {
   --brand: #0d0d26;
-  --brand-context: #02617e;
-  --brand-medium: #3c6d7c;
-  --brand-medium-alt: #a69b91;
-  --brand-dark-alt: #5b5149;
+  --brand-context: #596a73;
+  --brand-medium: #8f2611;
+  --brand-module-bg: #596a73;
   --brand-light: #f7eee6;
   --brand-white: #fdfcfc;
   --brand-black: #222222;
@@ -21,12 +20,13 @@ body {
 }
 
 .reveal h1 strong,
-.reveal h2 strong {
-  color: var(--brand-dark-alt);
+.reveal h2 strong,
+.reveal h3 strong {
+  color: var(--brand-medium);
   font-weight: normal;
 }
 .reveal p strong {
-  color: var(--brand-dark-alt);
+  color: var(--brand-medium);
 }
 
 .reveal h2 code {
@@ -101,14 +101,12 @@ body {
   color: var(--brand-context);
   text-align: left;
 }
-.reveal .title h1,
-.reveal .title h2 {
-  color: var(--brand-context);
-  /* margin-left: -30px; */
-  margin-top: -20px;
+.reveal .title h1 {
+  margin-bottom: 4rem;
+  line-height: 1em;
 }
-.reveal .title p {
-  /* margin-left: -30px; */
+.reveal .title h2 {
+  margin-top: -20px;
 }
 .reveal .title svg {
   fill: var(--brand-context);
@@ -128,13 +126,17 @@ body {
 .reveal .module .footer {
   color: var(--brand-light);
 }
-
+.reveal .list > h2,
+.reveal .list > h3 {
+  text-align: left;
+  padding-left: 4rem;
+}
 .reveal blockquote {
   box-shadow: none;
 }
 .reveal blockquote + p,
 .reveal ol + p {
-  color: var(--brand-context);
+  color: var(--brand-medium);
   font-style: italic;
   font-size: 2rem;
 }
@@ -155,4 +157,12 @@ body {
   text-align: right;
   margin-right: 5rem;
   margin-bottom: 40px;
+}
+
+.reveal .slides .double-wide {
+  display: flex;
+  flex-wrap: wrap;
+}
+.reveal .slides .double-wide > h3 {
+  flex: 0 0 50%;
 }

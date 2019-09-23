@@ -14,11 +14,13 @@ luckily for us, someone does a survey
 
 ---
 
-TODO: chapman university survey info
+## Chapman University Survey
+
+## of American Fears
 
 Notes:
 
-Chapman University in ??? does an annual survey of fears amongst Americans.
+Chapman University in California does an annual survey of fears amongst Americans.
 
 And there's a lot of fears in there that many of us sympathize with.
 
@@ -28,7 +30,9 @@ And there's a lot of fears in there that many of us sympathize with.
 
 ---
 
-TODO: image of 1. Corruption of government officials
+Trail: Chapman University Survey of American Fears
+
+## 74% **Corrupt government officials**
 
 Notes:
 
@@ -38,13 +42,19 @@ But I think folks of all different beliefs fear this
 
 ---
 
-TODO: image of Environmental:
+Layout: list
 
-- 2. Pollution of waterways (62%)
-- 3. Pollution of drinking water (61%)
-- 7. Pollution of air (55%)
-- 8. Extinction of plant and animal species (54%)
-- 9. Global warming/climate change (53%)
+Trail: Chapman University Survey of American Fears
+
+### 62% **Pollution of waterways**
+
+### 61% **Pollution of drinking water**
+
+### 55% **Pollution of air**
+
+### 54% **Extinction of plants and animals**
+
+### 53% **Global warming/climate change**
 
 Notes:
 
@@ -52,10 +62,13 @@ Many of the top-rated fears were related to the environment
 
 ---
 
-TODO: image of Financial:
+Layout: list
 
-- 4. Not having enough \$\$ for future (57%)
-- 10. High medical bills (53%)
+Trail: Chapman University Survey of American Fears
+
+### 57% **Not having enough money for future**
+
+### 53% **High medical bills**
 
 Notes:
 
@@ -63,10 +76,13 @@ Financial/economic
 
 ---
 
-TODO: image Health:
+Layout: list
 
-- 5. People I love becoming seriously ill (57%)
-- 6. People I love dying (56%)
+Trail: Chapman University Survey of American Fears
+
+### 57% **People I love becoming seriously ill**
+
+### 56% **People I love dying**
 
 Notes:
 
@@ -88,9 +104,11 @@ Notes:
 
 I fear dogs
 
-Strange dogs, mostly
+Strange dogs, especially
 
-not high on chapman's list - 94th, 3.7%
+not high on chapman's list -
+
+**3.7%**
 
 (story of being bit)
 
@@ -100,7 +118,9 @@ TODO: image of snake
 
 Notes:
 
-Significantly more common - 62nd/24%
+Significantly more common -
+
+**24%**
 
 I am creeped out by how they move
 

@@ -109,25 +109,24 @@ I fear...
 ### Description
 ## Rejection Therapy
 ### Quotes
-## New: self-talk
-### Mantras
 ## New: Rejection Ritual
 ### e.g. Wall of motivation > review strategies > mantra > etc....
 ### Why?
 #### Severs emotional ties
 #### Shifts self-talk to something positive
-#### Relation to habit loops??????
+#### Relation to habit loops: when response is automatic, and you don't have to think about it, you're more likely to do the right thing
 
 # Presence
 ## Physical presence
 ### New: Cartoon voice
 ### power pose
 ### mountain pose
-### mantras
+### New: Physical exercise
 ### recognize/identify/name the emotion
 ### Mindfulness/meditation
 #### New: talk about my meditation habit! Setting myself up for success every day. (And potentially more about habits?)
-### New: Physical exercise
+### New: self-talk
+#### Mantras
 ## Time travel
 ### Invert milestones
 ### Envision Future You
