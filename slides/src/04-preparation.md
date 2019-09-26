@@ -106,7 +106,7 @@ And work through those fears and failures together.
 
 ---
 
-TODO: image of duck
+<!-- .slide: data-background="/images/duck.jpg" -->
 
 Notes:
 
@@ -134,7 +134,7 @@ I want to look to a couple examples outdoors to illustrate this.
 
 Trail: Preparation, Focus On Successes
 
-TODO: image of MTB trail
+<!-- .slide: data-background="/images/biking-1.jpg" -->
 
 Notes:
 
@@ -146,7 +146,7 @@ When you start mountain biking, this is what the trail looks like:
 
 Trail: Preparation, Focus On Successes
 
-TODO: image of obstacles
+<!-- .slide: data-background="/images/biking-2.jpg" -->
 
 Notes:
 
@@ -158,7 +158,7 @@ But as you become a more skilled biker, the trail starts to look like this:
 
 Trail: Preparation, Focus On Successes
 
-TODO: image of ideal line
+<!-- .slide: data-background="/images/biking-3.jpg" -->
 
 Notes:
 
@@ -172,7 +172,7 @@ We see a similar example in rock climbing.
 
 Trail: Preparation, Focus On Successes
 
-TODO: image of climbing/route reading
+<!-- .slide: data-background="/images/route-reading.jpg" -->
 
 Notes:
 

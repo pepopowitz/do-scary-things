@@ -37,7 +37,7 @@ He suggests...
 
 Trail: Practice, Fear-setting
 
-TODO: image of fear-setting/define
+<!-- .slide: data-background="/images/define.jpg" -->
 
 Notes:
 
@@ -51,7 +51,7 @@ What are you most afraid of happening that is keeping you from doing something?
 
 Trail: Practice, Fear-setting
 
-TODO: image of fear-setting/prevent
+<!-- .slide: data-background="/images/prevent.jpg" -->
 
 Notes:
 
@@ -63,7 +63,7 @@ to prevent these things from happening?
 
 Trail: Practice, Fear-setting
 
-TODO: image of fear-setting/repair
+<!-- .slide: data-background="/images/repair.jpg" -->
 
 Notes:
 

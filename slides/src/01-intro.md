@@ -102,7 +102,7 @@ I'm a writer, at these URLs
 
 ---
 
-TODO: image of speaking
+<!-- .slide: data-background="/images/that-conference.jpg" -->
 
 Notes:
 

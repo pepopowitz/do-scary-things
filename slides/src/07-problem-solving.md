@@ -103,7 +103,7 @@ Trail: Problem Solving
 
 ## Eisenhower Decision Matrix
 
-TODO: image of eisenhower decision matrix
+![Eisenhower Decision Matrix](/images/matrix-important.jpg)
 
 Notes:
 
@@ -119,7 +119,7 @@ Trail: Problem Solving
 
 ## **Steve Hicks** Risk Matrix
 
-TODO: image of Steve Hicks risk matrix
+![Steve Hicks Risk Matrix](/images/matrix-scary.jpg)
 
 Notes:
 

@@ -1,6 +1,7 @@
 ---
 
-TODO: image of fear
+<!-- .slide: data-background="/images/fear.jpg" -->
+
 
 # Fear
 
@@ -98,7 +99,7 @@ starting with some PRIMAL fears
 
 ---
 
-TODO: image of dog
+<!-- .slide: data-background="/images/dog.jpg" -->
 
 Notes:
 
@@ -114,7 +115,7 @@ not high on chapman's list -
 
 ---
 
-TODO: image of snake
+<!-- .slide: data-background="/images/snake.jpg" -->
 
 Notes:
 
@@ -136,7 +137,7 @@ I found out my dad is afraid of not being understood
 
 ---
 
-TODO: image of getting old
+<!-- .slide: data-background="/images/about-schmidt.jpg" -->
 
 Notes:
 
@@ -160,7 +161,7 @@ And I don't think it was until I saw this movie that I realized how much I feare
 
 ---
 
-TODO: image of Steph
+<!-- .slide: data-background="/images/steph.jpg" -->
 
 Notes:
 
@@ -203,7 +204,7 @@ Who _doesn't_ have fears about work?
 
 ---
 
-TODO: image of acceptance
+<!-- .slide: data-background="/images/friends.jpg" -->
 
 Notes:
 
@@ -213,7 +214,7 @@ that deal with **acceptance from our peers**
 
 ---
 
-TODO: image of self-promotion
+<!-- .slide: data-background="/images/peacock.jpg" -->
 
 Notes:
 
@@ -241,7 +242,7 @@ i.e. imposter syndrome
 
 ---
 
-TODO: image of public speaking
+<!-- .slide: data-background="/images/speaking.jpg" -->
 
 Notes:
 
@@ -259,7 +260,7 @@ and these fears, and many like them, are all kind of the **same basic fear**
 
 ---
 
-TODO: image of rejection
+<!-- .slide: data-background="/images/alone.jpg" -->
 
 Notes:
 

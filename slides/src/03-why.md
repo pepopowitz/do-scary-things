@@ -8,7 +8,7 @@ Over-simplified, the popular science looks like this:
 
 # Limbic system
 
-TODO: image of limbic system
+<!-- .slide: data-background="/images/brain.jpg" -->
 
 Notes:
 
@@ -28,7 +28,7 @@ Like **fear, anger,** and emotions related to **reproduction.**
 
 # Limbic system
 
-TODO: image of limbic system processing
+<!-- .slide: data-background="/images/brain-process.jpg" -->
 
 Notes:
 
@@ -44,7 +44,7 @@ and then **trigger** an appropriate physical **response.**
 
 ---
 
-TODO: image of danger
+<!-- .slide: data-background="/images/tiger.jpg" -->
 
 Notes:
 
@@ -64,7 +64,7 @@ and in our fears
 
 ---
 
-TODO: image of cookies
+<!-- .slide: data-background="/images/cookies.jpg" -->
 
 Notes:
 
@@ -92,7 +92,7 @@ which feel really amazing.
 
 # Limbic System
 
-TODO: image of limbic system
+<!-- .slide: data-background="/images/brain.jpg" -->
 
 Notes:
 
@@ -104,7 +104,7 @@ But current studies seem to indicate...
 
 ---
 
-TODO: image of lack of fear
+<!-- .slide: data-background="/images/no-fear.jpg" -->
 
 Notes:
 
@@ -120,7 +120,7 @@ the majority, if not all, of our **fears are learned**.
 
 ---
 
-TODO: image of spider
+<!-- .slide: data-background="/images/spider.jpg" -->
 
 Notes:
 
@@ -134,7 +134,7 @@ the rest....
 
 ---
 
-TODO: image of dog
+<!-- .slide: data-background="/images/dog.jpg" -->
 
 Notes:
 
@@ -182,7 +182,7 @@ Notes:
 
 ---
 
-TODO: image of system failing
+<!-- .slide: data-background="/images/failure.jpg" -->
 
 Notes:
 
@@ -214,7 +214,7 @@ by Daniel Goleman
 
 # Amygdala
 
-TODO: image of amygdala
+<!-- .slide: data-background="/images/brain-amygdala.jpg" -->
 
 Notes:
 
@@ -252,7 +252,7 @@ Trail: Amygdala
 
 # The Hijack
 
-TODO: image of hijack
+TODO: image of hijack (including added sequence numbers)
 
 Notes:
 
@@ -264,7 +264,7 @@ before your prefontal cortex can evaluate the threat and say "whoa - not a big d
 
 ---
 
-TODO: image of pizza burning
+<!-- .slide: data-background="/images/pizza.jpg" -->
 
 Notes:
 
@@ -274,7 +274,7 @@ I know it's not a fire. But the smoke alarm, aka amygdala, responds quicker than
 
 ---
 
-TODO: image of lizard
+<!-- .slide: data-background="/images/lizard.jpg" -->
 
 Notes:
 
@@ -288,7 +288,7 @@ Author **Seth Godin** has a video where he talks about quieting your lizard brai
 
 ---
 
-TODO: image of fear as an emotion
+<!-- .slide: data-background="/images/alone.jpg" -->
 
 Notes:
 
@@ -310,7 +310,7 @@ We don't them to see us as unlike them
 
 ---
 
-TODO: image of waitbutwhy.com
+![Social Survival Mammoth](/images/wait-but-why.jpg)
 [waitbutwhy.com/???](waitbutwhy.com/???)
 
 Notes:
@@ -361,7 +361,7 @@ And really, **it's untrue**,
 
 ---
 
-TODO: image of their easy path
+<!-- .slide: data-background="/images/success-1.jpg" -->
 
 Notes:
 
@@ -369,7 +369,7 @@ because **we see their path** to success looking like this
 
 ---
 
-TODO: image of our hard path
+<!-- .slide: data-background="/images/success-2.jpg" -->
 
 Notes:
 
@@ -397,7 +397,7 @@ because of this nature to compare ourselves
 
 ---
 
-TODO: image of possible outcomes
+<!-- .slide: data-background="/images/outcomes-1.jpg" -->
 
 Notes:
 
@@ -415,7 +415,7 @@ we might look at **one or two of the good ones**, but mostly we focus on the rea
 
 ---
 
-TODO: image of low ceiling, high floor
+<!-- .slide: data-background="/images/outcomes-2.jpg" -->
 
 Notes:
 
@@ -425,7 +425,7 @@ one in which the range of outcomes look like this,
 
 ---
 
-TODO: image of high ceiling, low floor
+<!-- .slide: data-background="/images/outcomes-3.jpg" -->
 
 Notes:
 

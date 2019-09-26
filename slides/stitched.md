@@ -116,7 +116,7 @@ I'm a writer, at these URLs
 
 ---
 
-TODO: image of speaking
+<!-- .slide: data-background="/images/that-conference.jpg" -->
 
 Notes:
 
@@ -143,7 +143,8 @@ Three years ago, the only one of these identities I could claim was that of a de
 Something something overcome fear for incredible growth.
 ---
 
-TODO: image of fear
+<!-- .slide: data-background="/images/fear.jpg" -->
+
 
 # Fear
 
@@ -241,7 +242,7 @@ starting with some PRIMAL fears
 
 ---
 
-TODO: image of dog
+<!-- .slide: data-background="/images/dog.jpg" -->
 
 Notes:
 
@@ -257,7 +258,7 @@ not high on chapman's list -
 
 ---
 
-TODO: image of snake
+<!-- .slide: data-background="/images/snake.jpg" -->
 
 Notes:
 
@@ -279,7 +280,7 @@ I found out my dad is afraid of not being understood
 
 ---
 
-TODO: image of getting old
+<!-- .slide: data-background="/images/about-schmidt.jpg" -->
 
 Notes:
 
@@ -303,7 +304,7 @@ And I don't think it was until I saw this movie that I realized how much I feare
 
 ---
 
-TODO: image of Steph
+<!-- .slide: data-background="/images/steph.jpg" -->
 
 Notes:
 
@@ -346,7 +347,7 @@ Who _doesn't_ have fears about work?
 
 ---
 
-TODO: image of acceptance
+<!-- .slide: data-background="/images/friends.jpg" -->
 
 Notes:
 
@@ -356,7 +357,7 @@ that deal with **acceptance from our peers**
 
 ---
 
-TODO: image of self-promotion
+<!-- .slide: data-background="/images/peacock.jpg" -->
 
 Notes:
 
@@ -384,7 +385,7 @@ i.e. imposter syndrome
 
 ---
 
-TODO: image of public speaking
+<!-- .slide: data-background="/images/speaking.jpg" -->
 
 Notes:
 
@@ -402,7 +403,7 @@ and these fears, and many like them, are all kind of the **same basic fear**
 
 ---
 
-TODO: image of rejection
+<!-- .slide: data-background="/images/alone.jpg" -->
 
 Notes:
 
@@ -467,7 +468,7 @@ Over-simplified, the popular science looks like this:
 
 # Limbic system
 
-TODO: image of limbic system
+<!-- .slide: data-background="/images/brain.jpg" -->
 
 Notes:
 
@@ -487,7 +488,7 @@ Like **fear, anger,** and emotions related to **reproduction.**
 
 # Limbic system
 
-TODO: image of limbic system processing
+<!-- .slide: data-background="/images/brain-process.jpg" -->
 
 Notes:
 
@@ -503,7 +504,7 @@ and then **trigger** an appropriate physical **response.**
 
 ---
 
-TODO: image of danger
+<!-- .slide: data-background="/images/tiger.jpg" -->
 
 Notes:
 
@@ -523,7 +524,7 @@ and in our fears
 
 ---
 
-TODO: image of cookies
+<!-- .slide: data-background="/images/cookies.jpg" -->
 
 Notes:
 
@@ -551,7 +552,7 @@ which feel really amazing.
 
 # Limbic System
 
-TODO: image of limbic system
+<!-- .slide: data-background="/images/brain.jpg" -->
 
 Notes:
 
@@ -563,7 +564,7 @@ But current studies seem to indicate...
 
 ---
 
-TODO: image of lack of fear
+<!-- .slide: data-background="/images/no-fear.jpg" -->
 
 Notes:
 
@@ -579,7 +580,7 @@ the majority, if not all, of our **fears are learned**.
 
 ---
 
-TODO: image of spider
+<!-- .slide: data-background="/images/spider.jpg" -->
 
 Notes:
 
@@ -593,7 +594,7 @@ the rest....
 
 ---
 
-TODO: image of dog
+<!-- .slide: data-background="/images/dog.jpg" -->
 
 Notes:
 
@@ -641,7 +642,7 @@ Notes:
 
 ---
 
-TODO: image of system failing
+<!-- .slide: data-background="/images/failure.jpg" -->
 
 Notes:
 
@@ -673,7 +674,7 @@ by Daniel Goleman
 
 # Amygdala
 
-TODO: image of amygdala
+<!-- .slide: data-background="/images/brain-amygdala.jpg" -->
 
 Notes:
 
@@ -711,7 +712,7 @@ Trail: Amygdala
 
 # The Hijack
 
-TODO: image of hijack
+TODO: image of hijack (including added sequence numbers)
 
 Notes:
 
@@ -723,7 +724,7 @@ before your prefontal cortex can evaluate the threat and say "whoa - not a big d
 
 ---
 
-TODO: image of pizza burning
+<!-- .slide: data-background="/images/pizza.jpg" -->
 
 Notes:
 
@@ -733,7 +734,7 @@ I know it's not a fire. But the smoke alarm, aka amygdala, responds quicker than
 
 ---
 
-TODO: image of lizard
+<!-- .slide: data-background="/images/lizard.jpg" -->
 
 Notes:
 
@@ -747,7 +748,7 @@ Author **Seth Godin** has a video where he talks about quieting your lizard brai
 
 ---
 
-TODO: image of fear as an emotion
+<!-- .slide: data-background="/images/alone.jpg" -->
 
 Notes:
 
@@ -769,7 +770,7 @@ We don't them to see us as unlike them
 
 ---
 
-TODO: image of waitbutwhy.com
+![Social Survival Mammoth](/images/wait-but-why.jpg)
 [waitbutwhy.com/???](waitbutwhy.com/???)
 
 Notes:
@@ -820,7 +821,7 @@ And really, **it's untrue**,
 
 ---
 
-TODO: image of their easy path
+<!-- .slide: data-background="/images/success-1.jpg" -->
 
 Notes:
 
@@ -828,7 +829,7 @@ because **we see their path** to success looking like this
 
 ---
 
-TODO: image of our hard path
+<!-- .slide: data-background="/images/success-2.jpg" -->
 
 Notes:
 
@@ -856,7 +857,7 @@ because of this nature to compare ourselves
 
 ---
 
-TODO: image of possible outcomes
+<!-- .slide: data-background="/images/outcomes-1.jpg" -->
 
 Notes:
 
@@ -874,7 +875,7 @@ we might look at **one or two of the good ones**, but mostly we focus on the rea
 
 ---
 
-TODO: image of low ceiling, high floor
+<!-- .slide: data-background="/images/outcomes-2.jpg" -->
 
 Notes:
 
@@ -884,7 +885,7 @@ one in which the range of outcomes look like this,
 
 ---
 
-TODO: image of high ceiling, low floor
+<!-- .slide: data-background="/images/outcomes-3.jpg" -->
 
 Notes:
 
@@ -1019,7 +1020,7 @@ And work through those fears and failures together.
 
 ---
 
-TODO: image of duck
+<!-- .slide: data-background="/images/duck.jpg" -->
 
 Notes:
 
@@ -1047,7 +1048,7 @@ I want to look to a couple examples outdoors to illustrate this.
 
 Trail: Preparation, Focus On Successes
 
-TODO: image of MTB trail
+<!-- .slide: data-background="/images/biking-1.jpg" -->
 
 Notes:
 
@@ -1059,7 +1060,7 @@ When you start mountain biking, this is what the trail looks like:
 
 Trail: Preparation, Focus On Successes
 
-TODO: image of obstacles
+<!-- .slide: data-background="/images/biking-2.jpg" -->
 
 Notes:
 
@@ -1071,7 +1072,7 @@ But as you become a more skilled biker, the trail starts to look like this:
 
 Trail: Preparation, Focus On Successes
 
-TODO: image of ideal line
+<!-- .slide: data-background="/images/biking-3.jpg" -->
 
 Notes:
 
@@ -1085,7 +1086,7 @@ We see a similar example in rock climbing.
 
 Trail: Preparation, Focus On Successes
 
-TODO: image of climbing/route reading
+<!-- .slide: data-background="/images/route-reading.jpg" -->
 
 Notes:
 
@@ -1169,7 +1170,7 @@ He suggests...
 
 Trail: Practice, Fear-setting
 
-TODO: image of fear-setting/define
+<!-- .slide: data-background="/images/define.jpg" -->
 
 Notes:
 
@@ -1183,7 +1184,7 @@ What are you most afraid of happening that is keeping you from doing something?
 
 Trail: Practice, Fear-setting
 
-TODO: image of fear-setting/prevent
+<!-- .slide: data-background="/images/prevent.jpg" -->
 
 Notes:
 
@@ -1195,7 +1196,7 @@ to prevent these things from happening?
 
 Trail: Practice, Fear-setting
 
-TODO: image of fear-setting/repair
+<!-- .slide: data-background="/images/repair.jpg" -->
 
 Notes:
 
@@ -1638,7 +1639,7 @@ Trail: Problem Solving
 
 ## Eisenhower Decision Matrix
 
-TODO: image of eisenhower decision matrix
+![Eisenhower Decision Matrix](/images/matrix-important.jpg)
 
 Notes:
 
@@ -1654,7 +1655,7 @@ Trail: Problem Solving
 
 ## **Steve Hicks** Risk Matrix
 
-TODO: image of Steve Hicks risk matrix
+![Steve Hicks Risk Matrix](/images/matrix-scary.jpg)
 
 Notes:
 
@@ -1670,10 +1671,181 @@ is the same thing we do every day as developers.
 
 Breaking a problem down into smaller problems.
 ---
+Layout: module
+
+# Perspective
+
+Notes:
+
+Finally, I want to leave you with some perspective
+
+A few other stories that might help us overcome our fears.
+
+---
+
+Trail: Perspective
+
+# Embrace Failure
+
+Notes:
+
+We live in an amazing time.
+
+Thanks to tech startups, failure is fully embraced right now.
+
+That was definitely not the case when we were kids.
+
+But today, they _teach_ this in schools
+
+My kids' classrooms have signs all over endorsing a growth mindset
+
+This is great!
+
+---
+
+Trail: Perspective
+
+> I have not failed. I've just found 10,000 ways that won't work.
+
+Thomas Edison
+
+Notes:
+
+I feel like this is the typical quote for embracing failure
+
+---
+
+Trail: Perspective
+
+> If you ain't falling, you ain't learning.
+
+Chris Turner
+
+Notes:
+
+This is one that I like better
+
+From a former coworker.
+
+In regards to snowboarding but so much more.
+
+---
+
+Trail: Perspective
+
+> You really are pushing yourself if you do something and it goes horrible.
+
+Aziz Ansari
+
+Notes:
+
+about working on his comedy at seedy comedy clubs
+
+"If I'm just killing all the time, I'm just worried too much about having a good time and doing a good show in that moment.
+
+If I do a set where I just completely tank, that means I really went for something and tried something difficult.
+
+...
+
+let's embrace failure as a means to learn
+
+and get better
+
+and when you _do_ fail...
+
+---
+
+Trail: Perspective
+
+# Forgive Yourself
+
+Notes:
+
+Treat yourself as you would treat a friend
+
+If your best friend tries something amazing
+
+and doesn't get the outcome they wanted
+
+Do you beat them up for failing?
+
+You don't. And you shouldn't do it to yourself, either.
+
+---
+
+Trail: Perspective
+
+TODO: image of a tree
+
+Notes:
+
+We spend so much time comparing ourselves to others
+
+and when we see someone successful, this is what we see:
+
+their greatest successes
+
+---
+
+Trail: Perspective
+
+TODO: image of saplings around a tree
+
+Notes:
+
+what you _don't_ see are these
+
+all the other attempts they've made on the road to their greatest successes
+
+They've been laying seeds for a long time
+
+That's what it takes.
+
+Cultivating a garden - the harvest doesn't come immediately; it comes with persistence, consistency, and just doing the work.
+---
+Layout: module
+
+## Preparation
+
+## Practice
+<!-- .element: class="fragment" -->
+
+## Presence
+<!-- .element: class="fragment" -->
+
+## Problem Solving
+<!-- .element: class="fragment" -->
+
+## Perspective
+<!-- .element: class="fragment" -->
+
+Notes:
+
+Recap each
+
+---
+
+<!-- .slide: data-background="/images/come-on.jpg" -->
+
+Notes:
+
+I'm going to close with one more story about climbing.
+
+story
+
+Some things we fear because we really want them. Sometimes it takes an external voice, the voice of a stranger, to say "come on". To remind us that we are capable of much more than we let ourselves be.
+
+Just as that guy I didn't know in the bouldering cave reminded me, I am here to remind you.
+
+You are capable of accomplishing scary things.
+
+Come on. You got this.
+
+---
 
 Footer: false
 
-<!-- .slide: data-background="/images/drawings/some-title.jpg" class="title" -->
+<!-- .slide: data-background="/images/cover.png" class="title" -->
 
 # **Thank you!**
 
