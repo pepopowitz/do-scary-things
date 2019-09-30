@@ -66,3 +66,74 @@ Notes:
 - Questions afterward
 
 - Enjoy the rest of \_\_\_
+
+---
+
+Wrapper: double-wide
+
+Layout: long-list
+
+Trail: Resources, Image Credits
+
+##### [Fear](https://unsplash.com/photos/yyxmzQLUrqY)
+
+##### [Snakes](https://www.pexels.com/photo/reptile-snake-snape-36448/)
+
+##### [Dalmation](https://www.flickr.com/photos/photosightfaces/17232325990)
+
+##### [Dead-end job](https://www.flickr.com/photos/qualityfrog/3551979846/in/photolist-NNJ1p-RCM4Wb-porW49-poEZTB-98EPcR-5CMyrA-9jVAhw-6pSPRQ-DwzD7x)
+
+##### [About Schmidt](https://www.amazon.com/About-Schmidt-Jack-Nicholson/dp/B00AP8XC02)
+
+##### [Campfire](https://unsplash.com/photos/S_VbdMTsdiA)
+
+##### [Peacock](https://unsplash.com/photos/lXR2boS_O94)
+
+##### [Laughing Horse](https://unsplash.com/photos/MCauAnBJeig)
+
+##### [Knowledge](https://unsplash.com/photos/hHL08lF7Ikc)
+
+##### [Speaking](https://unsplash.com/photos/LETdkk7wHQk)
+
+##### [Rejection](https://unsplash.com/photos/kFVmYjK6hZ8)
+
+##### [Why Do We Fear?](https://unsplash.com/photos/8xAA0f9yQnE)
+
+##### [Tiger](https://unsplash.com/photos/ExxXjNeBS20)
+
+##### [We Aren't Born With Fears](https://unsplash.com/photos/hLMqQ10XUlQ)
+
+##### [Spider](https://unsplash.com/photos/O-D0CdnDYEU)
+
+##### [Dog](http://www.afcent.af.mil/Units/386th-Air-Expeditionary-Wing/Features/Display/Article/425244/keep-running-dont-look-back/)
+
+##### [Fail](https://www.gratisography.com/)
+
+##### [Lizard](https://unsplash.com/photos/UuDeLGnpowY)
+
+##### [Fearful Man](http://maxpixel.freegreatpicture.com/Schreck-Mouth-Man-Scared-Face-Eyes-Hand-70603)
+
+##### [Duck](https://www.gratisography.com/)
+
+##### [Climber](https://unsplash.com/photos/A_mWBNgFi4I)
+
+---
+
+Layout: long-list
+Trail: Resources, Further Reading
+
+##### [The Science of Fear](http://www.cnn.com/2015/10/29/health/science-of-fear/index.html)
+
+##### [Overcoming Fear: The Only Way Out Is Through](https://www.psychologytoday.com/us/blog/insight-therapy/201009/overcoming-fear-the-only-way-out-is-through)
+
+##### [Emotional Intelligence (Daniel Goleman)](https://www.amazon.com/Emotional-Intelligence-Matter-More-Than/dp/055338371X/ref=sr_1_1?ie=UTF8&qid=1507858356&sr=8-1)
+
+##### [Quieting The Lizard Brain (Seth Godin)](https://vimeo.com/5895898)
+
+##### [Taming The Mammoth - Why You Should Stop Caring What Other People Think (Tim Urban)](https://waitbutwhy.com/2014/06/taming-mammoth-let-peoples-opinions-run-life.html)
+
+##### [Why You Should Define Your Fears Instead Of Your Goals (Tim Ferriss)](https://www.ted.com/talks/tim_ferriss_why_you_should_define_your_fears_instead_of_your_goals)
+
+##### [Rejection Therapy (Jia Jiang)](http://www.rejectiontherapy.com/)
+
+##### [Power Pose (Amy Cuddy)](https://www.ted.com/talks/amy_cuddy_your_body_language_shapes_who_you_are)

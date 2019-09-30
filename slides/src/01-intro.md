@@ -30,6 +30,8 @@ Notes: STICKERS!
 
 - thanks to organizers
 
+Let me tell you a little about myself
+
 ---
 
 Footer: false
@@ -48,7 +50,7 @@ and we're doing that with a platform for collecting and discovering art.
 
 ---
 
-TODO: image of JS
+<!-- .slide: data-background="/images/javascript.jpg" -->
 
 Notes:
 
@@ -60,7 +62,9 @@ JS in 1999 - _that's_ a scary thing.
 
 ---
 
-TODO: image of trail running
+Layout: inverse
+
+<!-- .slide: data-background="/images/trail-running.jpg" -->
 
 Notes:
 
@@ -80,7 +84,9 @@ I just ran a half-marathon on trails in SE wisconsin, beating my goal of 2h by 1
 
 ---
 
-TODO: image of CCC
+<div class="img-50">
+![Cream City Code Logo](/images/ccc.jpg)
+</div>
 
 [creamcitycode.com](creamcitycode.com)
 
@@ -102,7 +108,9 @@ I'm a writer, at these URLs
 
 ---
 
-<!-- .slide: data-background="/images/that-conference.jpg" -->
+Footer: false
+
+<!-- .slide: data-background="/images/me-speaking.jpg" -->
 
 Notes:
 
@@ -112,7 +120,9 @@ I've spoken at conferences throughout the Midwest, giving over 40 talks.
 
 ---
 
-TODO: image of workshop
+Footer: false
+
+<!-- .slide: data-background="/images/me-teaching-2.jpg" -->
 
 Notes:
 
@@ -120,10 +130,36 @@ I'm a teacher
 
 I currently teach workshops on React and TDD
 
-Plug upcoming event in October
+---
+
+## Friday, October 25th
+
+### Building Your First React App
+
+### [stevenhicks.me/react-workshop/2019/10/25](https://stevenhicks.me/react-workshop/2019/10/25)
+
+Notes:
+
+Milwaukee at end of October: react workshop
 
 ...
 
-Three years ago, the only one of these identities I could claim was that of a developer.
+3 years ago, the only one of these identities I could claim was that of an engineer.
 
-Something something overcome fear for incredible growth.
+And then I realized that I wasn't really growing
+
+because I wasn't getting uncomfortable.
+
+Overcoming my fears allowed me to do things I'd always wanted to do
+
+But never actually did
+
+...
+
+And I'm hopeful that today I can
+
+- help break down fear for you
+
+- Make the things that are holding you back a little less scary
+
+- Arm you with some strategies for overcoming fear

@@ -127,16 +127,6 @@ I am creeped out by how they move
 
 ---
 
-TODO: image of mashed potatoes
-
-Notes:
-
-I found out my dad is afraid of not being understood
-
-(story of mashed potatoes in kfc in costa rica)
-
----
-
 <!-- .slide: data-background="/images/about-schmidt.jpg" -->
 
 Notes:
@@ -230,7 +220,7 @@ I went back and forth on pulling those slides out 25 times.
 
 ---
 
-TODO: image of looking dumb
+<!-- .slide: data-background="/images/humiliated.jpg" -->
 
 Notes:
 
@@ -284,7 +274,7 @@ or **quitting our job and going freelance**
 
 ---
 
-TODO: image of speaking again?
+<!-- .slide: data-background="/images/me-teaching.jpg" -->
 
 Notes:
 

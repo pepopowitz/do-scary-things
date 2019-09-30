@@ -3,6 +3,7 @@ const {
   injectFooter,
   injectLayout,
   injectLineNumbers,
+  injectWrapper,
 } = require('./injectors');
 
 module.exports = (markdown, options) => {
@@ -16,5 +17,7 @@ module.exports = (markdown, options) => {
 };
 
 function inject(slide) {
-  return injectTrail(injectFooter(injectLayout(injectLineNumbers(slide))));
+  return injectTrail(
+    injectFooter(injectLayout(injectLineNumbers(injectWrapper(slide))))
+  );
 }

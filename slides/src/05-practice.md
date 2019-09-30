@@ -139,6 +139,22 @@ How many times have you done this?
 
 ---
 
+Trail: Practice, Rejection Therapy
+
+## **ha·bit·u·a·tion**
+
+> the diminishing of a physiological or emotional response to a frequently repeated stimulus
+
+Notes:
+
+Rejection therapy is practice in the utmost sense
+
+And it takes advantage of habituation
+
+The more you experience rejection...the less uncomfortable it becomes.
+
+---
+
 Trail: Practice
 
 # Rejection Ritual
@@ -205,3 +221,9 @@ and wondering what's wrong with you
 3. When you build a habit, your response becomes automatic
 
 You don't have to think about it - you're more likely to do the thing you want to do
+
+When you brush your teeth in the morning, do you make a decision?
+
+No, you just do it
+
+...unless you're a remote worker, and then you just kind of forget for a few days

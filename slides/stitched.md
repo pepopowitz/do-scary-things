@@ -44,6 +44,8 @@ Notes: STICKERS!
 
 - thanks to organizers
 
+Let me tell you a little about myself
+
 ---
 
 Footer: false
@@ -62,7 +64,7 @@ and we're doing that with a platform for collecting and discovering art.
 
 ---
 
-TODO: image of JS
+<!-- .slide: data-background="/images/javascript.jpg" -->
 
 Notes:
 
@@ -74,7 +76,9 @@ JS in 1999 - _that's_ a scary thing.
 
 ---
 
-TODO: image of trail running
+Layout: inverse
+
+<!-- .slide: data-background="/images/trail-running.jpg" -->
 
 Notes:
 
@@ -94,7 +98,9 @@ I just ran a half-marathon on trails in SE wisconsin, beating my goal of 2h by 1
 
 ---
 
-TODO: image of CCC
+<div class="img-50">
+![Cream City Code Logo](/images/ccc.jpg)
+</div>
 
 [creamcitycode.com](creamcitycode.com)
 
@@ -116,7 +122,9 @@ I'm a writer, at these URLs
 
 ---
 
-<!-- .slide: data-background="/images/that-conference.jpg" -->
+Footer: false
+
+<!-- .slide: data-background="/images/me-speaking.jpg" -->
 
 Notes:
 
@@ -126,7 +134,9 @@ I've spoken at conferences throughout the Midwest, giving over 40 talks.
 
 ---
 
-TODO: image of workshop
+Footer: false
+
+<!-- .slide: data-background="/images/me-teaching-2.jpg" -->
 
 Notes:
 
@@ -134,13 +144,39 @@ I'm a teacher
 
 I currently teach workshops on React and TDD
 
-Plug upcoming event in October
+---
+
+## Friday, October 25th
+
+### Building Your First React App
+
+### [stevenhicks.me/react-workshop/2019/10/25](https://stevenhicks.me/react-workshop/2019/10/25)
+
+Notes:
+
+Milwaukee at end of October: react workshop
 
 ...
 
-Three years ago, the only one of these identities I could claim was that of a developer.
+3 years ago, the only one of these identities I could claim was that of an engineer.
 
-Something something overcome fear for incredible growth.
+And then I realized that I wasn't really growing
+
+because I wasn't getting uncomfortable.
+
+Overcoming my fears allowed me to do things I'd always wanted to do
+
+But never actually did
+
+...
+
+And I'm hopeful that today I can
+
+- help break down fear for you
+
+- Make the things that are holding you back a little less scary
+
+- Arm you with some strategies for overcoming fear
 ---
 
 <!-- .slide: data-background="/images/fear.jpg" -->
@@ -270,16 +306,6 @@ I am creeped out by how they move
 
 ---
 
-TODO: image of mashed potatoes
-
-Notes:
-
-I found out my dad is afraid of not being understood
-
-(story of mashed potatoes in kfc in costa rica)
-
----
-
 <!-- .slide: data-background="/images/about-schmidt.jpg" -->
 
 Notes:
@@ -373,7 +399,7 @@ I went back and forth on pulling those slides out 25 times.
 
 ---
 
-TODO: image of looking dumb
+<!-- .slide: data-background="/images/humiliated.jpg" -->
 
 Notes:
 
@@ -427,7 +453,7 @@ or **quitting our job and going freelance**
 
 ---
 
-TODO: image of speaking again?
+<!-- .slide: data-background="/images/me-teaching.jpg" -->
 
 Notes:
 
@@ -518,45 +544,13 @@ and we run, before we even realize what's happening.
 
 ...
 
-So there's **great value** in the limbic system
+There's **great value** in the limbic system
 
 and in our fears
 
----
-
-<!-- .slide: data-background="/images/cookies.jpg" -->
-
-Notes:
-
-There's other values to fear, too
-
-like what I like to call the **salty/sweet principle**
-
-have you ever forgotten to add salt to chocolate chip cookies?
-
-it doesn't taste right.
-
-but you add a little bit of salt - not much
-
-and your cookies actually taste sweeter, not saltier.
-
 ...
 
-similarly, **if we didn't have fear**...
-
-we wouldn't have those **contrasting feelings of overcoming** fear
-
-which feel really amazing.
-
----
-
-# Limbic System
-
-<!-- .slide: data-background="/images/brain.jpg" -->
-
-Notes:
-
-So we are **born with** this limbic system
+We are **born with** this limbic system
 
 and the **ability to fear things**
 
@@ -662,8 +656,9 @@ Notes:
 
 ---
 
-TODO: image of emotional intelligence book
-
+<div class="img-30">
+![Emotional Intelligence book](/images/emotional-intelligence.jpg)
+</div>
 Notes:
 
 this term comes from the book Emotional Intelligence
@@ -766,12 +761,14 @@ They come from a few emotional places.
 
 Notes:
 
-We don't them to see us as unlike them
+We don't want them to see us as unlike them
 
 ---
 
+<div class="img-50">
 ![Social Survival Mammoth](/images/wait-but-why.jpg)
-[waitbutwhy.com/???](waitbutwhy.com/???)
+</div>
+[waitbutwhy.com](waitbutwhy.com/2014/06/taming-mammoth-let-peoples-opinions-run-life.html)
 
 Notes:
 
@@ -901,7 +898,9 @@ Even though this other option clearly has the most amazing outcomes for us.
 
 ...
 
-Our brain tells us stories, and very often those stories are unfounded lies.
+This risk avoidance works great when the risks are realistic
+
+But our brain tells us stories, and very often those stories are unfounded lies.
 
 ---
 
@@ -1272,6 +1271,22 @@ How many times have you done this?
 
 ---
 
+Trail: Practice, Rejection Therapy
+
+## **ha·bit·u·a·tion**
+
+> the diminishing of a physiological or emotional response to a frequently repeated stimulus
+
+Notes:
+
+Rejection therapy is practice in the utmost sense
+
+And it takes advantage of habituation
+
+The more you experience rejection...the less uncomfortable it becomes.
+
+---
+
 Trail: Practice
 
 # Rejection Ritual
@@ -1338,6 +1353,12 @@ and wondering what's wrong with you
 3. When you build a habit, your response becomes automatic
 
 You don't have to think about it - you're more likely to do the thing you want to do
+
+When you brush your teeth in the morning, do you make a decision?
+
+No, you just do it
+
+...unless you're a remote worker, and then you just kind of forget for a few days
 ---
 
 Layout: module
@@ -1870,3 +1891,74 @@ Notes:
 - Questions afterward
 
 - Enjoy the rest of \_\_\_
+
+---
+
+Wrapper: double-wide
+
+Layout: long-list
+
+Trail: Resources, Image Credits
+
+##### [Fear](https://unsplash.com/photos/yyxmzQLUrqY)
+
+##### [Snakes](https://www.pexels.com/photo/reptile-snake-snape-36448/)
+
+##### [Dalmation](https://www.flickr.com/photos/photosightfaces/17232325990)
+
+##### [Dead-end job](https://www.flickr.com/photos/qualityfrog/3551979846/in/photolist-NNJ1p-RCM4Wb-porW49-poEZTB-98EPcR-5CMyrA-9jVAhw-6pSPRQ-DwzD7x)
+
+##### [About Schmidt](https://www.amazon.com/About-Schmidt-Jack-Nicholson/dp/B00AP8XC02)
+
+##### [Campfire](https://unsplash.com/photos/S_VbdMTsdiA)
+
+##### [Peacock](https://unsplash.com/photos/lXR2boS_O94)
+
+##### [Laughing Horse](https://unsplash.com/photos/MCauAnBJeig)
+
+##### [Knowledge](https://unsplash.com/photos/hHL08lF7Ikc)
+
+##### [Speaking](https://unsplash.com/photos/LETdkk7wHQk)
+
+##### [Rejection](https://unsplash.com/photos/kFVmYjK6hZ8)
+
+##### [Why Do We Fear?](https://unsplash.com/photos/8xAA0f9yQnE)
+
+##### [Tiger](https://unsplash.com/photos/ExxXjNeBS20)
+
+##### [We Aren't Born With Fears](https://unsplash.com/photos/hLMqQ10XUlQ)
+
+##### [Spider](https://unsplash.com/photos/O-D0CdnDYEU)
+
+##### [Dog](http://www.afcent.af.mil/Units/386th-Air-Expeditionary-Wing/Features/Display/Article/425244/keep-running-dont-look-back/)
+
+##### [Fail](https://www.gratisography.com/)
+
+##### [Lizard](https://unsplash.com/photos/UuDeLGnpowY)
+
+##### [Fearful Man](http://maxpixel.freegreatpicture.com/Schreck-Mouth-Man-Scared-Face-Eyes-Hand-70603)
+
+##### [Duck](https://www.gratisography.com/)
+
+##### [Climber](https://unsplash.com/photos/A_mWBNgFi4I)
+
+---
+
+Layout: long-list
+Trail: Resources, Further Reading
+
+##### [The Science of Fear](http://www.cnn.com/2015/10/29/health/science-of-fear/index.html)
+
+##### [Overcoming Fear: The Only Way Out Is Through](https://www.psychologytoday.com/us/blog/insight-therapy/201009/overcoming-fear-the-only-way-out-is-through)
+
+##### [Emotional Intelligence (Daniel Goleman)](https://www.amazon.com/Emotional-Intelligence-Matter-More-Than/dp/055338371X/ref=sr_1_1?ie=UTF8&qid=1507858356&sr=8-1)
+
+##### [Quieting The Lizard Brain (Seth Godin)](https://vimeo.com/5895898)
+
+##### [Taming The Mammoth - Why You Should Stop Caring What Other People Think (Tim Urban)](https://waitbutwhy.com/2014/06/taming-mammoth-let-peoples-opinions-run-life.html)
+
+##### [Why You Should Define Your Fears Instead Of Your Goals (Tim Ferriss)](https://www.ted.com/talks/tim_ferriss_why_you_should_define_your_fears_instead_of_your_goals)
+
+##### [Rejection Therapy (Jia Jiang)](http://www.rejectiontherapy.com/)
+
+##### [Power Pose (Amy Cuddy)](https://www.ted.com/talks/amy_cuddy_your_body_language_shapes_who_you_are)

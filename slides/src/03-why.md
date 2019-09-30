@@ -58,45 +58,13 @@ and we run, before we even realize what's happening.
 
 ...
 
-So there's **great value** in the limbic system
+There's **great value** in the limbic system
 
 and in our fears
 
----
-
-<!-- .slide: data-background="/images/cookies.jpg" -->
-
-Notes:
-
-There's other values to fear, too
-
-like what I like to call the **salty/sweet principle**
-
-have you ever forgotten to add salt to chocolate chip cookies?
-
-it doesn't taste right.
-
-but you add a little bit of salt - not much
-
-and your cookies actually taste sweeter, not saltier.
-
 ...
 
-similarly, **if we didn't have fear**...
-
-we wouldn't have those **contrasting feelings of overcoming** fear
-
-which feel really amazing.
-
----
-
-# Limbic System
-
-<!-- .slide: data-background="/images/brain.jpg" -->
-
-Notes:
-
-So we are **born with** this limbic system
+We are **born with** this limbic system
 
 and the **ability to fear things**
 
@@ -202,8 +170,9 @@ Notes:
 
 ---
 
-TODO: image of emotional intelligence book
-
+<div class="img-30">
+![Emotional Intelligence book](/images/emotional-intelligence.jpg)
+</div>
 Notes:
 
 this term comes from the book Emotional Intelligence
@@ -306,12 +275,14 @@ They come from a few emotional places.
 
 Notes:
 
-We don't them to see us as unlike them
+We don't want them to see us as unlike them
 
 ---
 
+<div class="img-50">
 ![Social Survival Mammoth](/images/wait-but-why.jpg)
-[waitbutwhy.com/???](waitbutwhy.com/???)
+</div>
+[waitbutwhy.com](waitbutwhy.com/2014/06/taming-mammoth-let-peoples-opinions-run-life.html)
 
 Notes:
 
@@ -441,7 +412,9 @@ Even though this other option clearly has the most amazing outcomes for us.
 
 ...
 
-Our brain tells us stories, and very often those stories are unfounded lies.
+This risk avoidance works great when the risks are realistic
+
+But our brain tells us stories, and very often those stories are unfounded lies.
 
 ---
 

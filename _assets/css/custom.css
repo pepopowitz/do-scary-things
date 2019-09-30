@@ -166,3 +166,10 @@ body {
 .reveal .slides .double-wide > h3 {
   flex: 0 0 50%;
 }
+.reveal .slides .double-wide > h5 {
+  flex: 0 0 50%;
+}
+
+.reveal .slides .long-list h5 {
+  margin: 0;
+}

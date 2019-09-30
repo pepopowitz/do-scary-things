@@ -119,9 +119,24 @@ function identifyBackground(layout) {
   return '';
 }
 
+function injectWrapper(slide) {
+  const regex = /^Wrapper: (.*)$/m;
+
+  const match = slide.match(regex);
+
+  if (!match) {
+    return slide;
+  }
+
+  const wrapper = match[1];
+
+  return `\n<div class="${wrapper}">\n${slide.replace(regex, '')}\n</div>`;
+}
+
 module.exports = {
   injectTrail,
   injectFooter,
   injectLayout,
   injectLineNumbers,
+  injectWrapper,
 };

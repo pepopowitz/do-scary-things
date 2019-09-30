@@ -20,9 +20,6 @@ So I did the same
 
 ---
 
-
-
-
 ---
 
 Trail: Presence, Envision Future You
@@ -54,3 +51,7 @@ I'm serious
 It sounds ridiculous, doesn't it?
 
 Helps me recognize how goofy my fears are sometimes
+
+---
+
+28:00 - finish "why", begin strategies
