@@ -6,7 +6,7 @@ Notes:
 Over-simplified, the popular science looks like this:
 ---
 
-# Limbic system
+Trail: Limbic system
 
 <!-- .slide: data-background="/images/brain.jpg" -->
 
@@ -26,7 +26,7 @@ Like **fear, anger,** and emotions related to **reproduction.**
 
 ---
 
-# Limbic system
+Trail: Limbic system
 
 <!-- .slide: data-background="/images/brain-process.jpg" -->
 
@@ -181,7 +181,7 @@ by Daniel Goleman
 
 ---
 
-# Amygdala
+Trail: Amygdala
 
 <!-- .slide: data-background="/images/brain-amygdala.jpg" -->
 
@@ -203,9 +203,7 @@ This is basically what has **allowed us to survive** as a species.
 
 Trail: Amygdala
 
-# The Happy Path
-
-TODO: image of happy path (including added sequence numbers)
+<!-- .slide: data-background="/images/brain-process.jpg" -->
 
 Notes:
 
@@ -219,9 +217,7 @@ to figure out if they are a threat or not.
 
 Trail: Amygdala
 
-# The Hijack
-
-TODO: image of hijack (including added sequence numbers)
+<!-- .slide: data-background="/images/brain-hijack.jpg" -->
 
 Notes:
 
@@ -280,7 +276,7 @@ We don't want them to see us as unlike them
 ---
 
 <div class="img-50">
-![Social Survival Mammoth](/images/wait-but-why.jpg)
+![Social Survival Mammoth](/images/wait-but-why.png)
 </div>
 [waitbutwhy.com](waitbutwhy.com/2014/06/taming-mammoth-let-peoples-opinions-run-life.html)
 

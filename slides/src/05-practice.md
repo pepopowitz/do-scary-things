@@ -23,6 +23,8 @@ on why you should define your fears instead of your goals.
 
 ---
 
+Layout: long-quote
+
 Trail: Practice, Fear-setting
 
 > ...visualizing the worst-case scenarios, in detail, that you fear, preventing you from taking action, so that you can take action to overcome that paralysis.
@@ -91,6 +93,8 @@ experiment by Jia Jiang
 
 ---
 
+Layout: long-quote
+
 Trail: Practice, Rejection Therapy
 
 > My goal was to **desensitize myself** from the pain of rejection and overcome my fear
@@ -115,6 +119,8 @@ There's a couple quotes from Jia that I think are really remarkable
 
 ---
 
+Layout: long-quote
+
 Trail: Practice, Rejection Therapy
 
 > Our imagination often takes us to the worst possible outcome, causing us to be much less likely to take that action. **We are really our own worst rejectors.**
@@ -126,6 +132,8 @@ Notes:
 ...How true is that...
 
 ---
+
+Layout: long-quote
 
 Trail: Practice, Rejection Therapy
 

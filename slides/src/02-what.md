@@ -178,7 +178,7 @@ some people fear
 
 ---
 
-TODO: image of work
+<!-- .slide: data-background="/images/work.jpg" -->
 
 Notes:
 
@@ -288,7 +288,7 @@ I'm hopeful that helping you overcome your fears can change your life like it's 
 
 ---
 
-TODO: legit help info
+# \* **I am not a doctor.**
 
 Notes:
 

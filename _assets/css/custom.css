@@ -133,6 +133,10 @@ body {
 }
 .reveal blockquote {
   box-shadow: none;
+  font-size: 3.2rem;
+}
+.reveal .long-quote blockquote {
+  font-size: 2.5rem;
 }
 .reveal blockquote + p,
 .reveal ol + p {
@@ -147,7 +151,9 @@ body {
 .reveal .img-50 img {
   width: 50%;
 }
-
+.reveal .img-80 img {
+  width: 80%;
+}
 .reveal .resources ul {
   font-size: 0.6em;
 }

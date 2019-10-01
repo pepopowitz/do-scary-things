@@ -21,7 +21,9 @@ Recap each
 
 ---
 
-<!-- .slide: data-background="/images/come-on.jpg" -->
+Layout: inverse
+
+<!-- .slide: data-background="/images/bouldering.jpg" -->
 
 Notes:
 
@@ -81,7 +83,7 @@ Trail: Resources, Image Credits
 
 ##### [Dalmation](https://www.flickr.com/photos/photosightfaces/17232325990)
 
-##### [Dead-end job](https://www.flickr.com/photos/qualityfrog/3551979846/in/photolist-NNJ1p-RCM4Wb-porW49-poEZTB-98EPcR-5CMyrA-9jVAhw-6pSPRQ-DwzD7x)
+##### [Work](https://www.pexels.com/photo/man-in-white-shirt-using-macbook-pro-52608/)
 
 ##### [About Schmidt](https://www.amazon.com/About-Schmidt-Jack-Nicholson/dp/B00AP8XC02)
 
@@ -105,8 +107,6 @@ Trail: Resources, Image Credits
 
 ##### [Spider](https://unsplash.com/photos/O-D0CdnDYEU)
 
-##### [Dog](http://www.afcent.af.mil/Units/386th-Air-Expeditionary-Wing/Features/Display/Article/425244/keep-running-dont-look-back/)
-
 ##### [Fail](https://www.gratisography.com/)
 
 ##### [Lizard](https://unsplash.com/photos/UuDeLGnpowY)
@@ -115,7 +115,7 @@ Trail: Resources, Image Credits
 
 ##### [Duck](https://www.gratisography.com/)
 
-##### [Climber](https://unsplash.com/photos/A_mWBNgFi4I)
+##### [Bouldering](https://unsplash.com/photos/NY1D4Zni7fc)
 
 ---
 

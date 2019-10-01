@@ -103,7 +103,7 @@ You don't. And you shouldn't do it to yourself, either.
 
 Trail: Perspective
 
-TODO: image of a tree
+<!-- .slide: data-background="/images/tree.jpg" -->
 
 Notes:
 
@@ -117,7 +117,7 @@ their greatest successes
 
 Trail: Perspective
 
-TODO: image of saplings around a tree
+<!-- .slide: data-background="/images/sprouts.jpg" -->
 
 Notes:
 

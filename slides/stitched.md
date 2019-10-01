@@ -357,7 +357,7 @@ some people fear
 
 ---
 
-TODO: image of work
+<!-- .slide: data-background="/images/work.jpg" -->
 
 Notes:
 
@@ -467,7 +467,7 @@ I'm hopeful that helping you overcome your fears can change your life like it's 
 
 ---
 
-TODO: legit help info
+# \* **I am not a doctor.**
 
 Notes:
 
@@ -492,7 +492,7 @@ Notes:
 Over-simplified, the popular science looks like this:
 ---
 
-# Limbic system
+Trail: Limbic system
 
 <!-- .slide: data-background="/images/brain.jpg" -->
 
@@ -512,7 +512,7 @@ Like **fear, anger,** and emotions related to **reproduction.**
 
 ---
 
-# Limbic system
+Trail: Limbic system
 
 <!-- .slide: data-background="/images/brain-process.jpg" -->
 
@@ -667,7 +667,7 @@ by Daniel Goleman
 
 ---
 
-# Amygdala
+Trail: Amygdala
 
 <!-- .slide: data-background="/images/brain-amygdala.jpg" -->
 
@@ -689,9 +689,7 @@ This is basically what has **allowed us to survive** as a species.
 
 Trail: Amygdala
 
-# The Happy Path
-
-TODO: image of happy path (including added sequence numbers)
+<!-- .slide: data-background="/images/brain-process.jpg" -->
 
 Notes:
 
@@ -705,9 +703,7 @@ to figure out if they are a threat or not.
 
 Trail: Amygdala
 
-# The Hijack
-
-TODO: image of hijack (including added sequence numbers)
+<!-- .slide: data-background="/images/brain-hijack.jpg" -->
 
 Notes:
 
@@ -766,7 +762,7 @@ We don't want them to see us as unlike them
 ---
 
 <div class="img-50">
-![Social Survival Mammoth](/images/wait-but-why.jpg)
+![Social Survival Mammoth](/images/wait-but-why.png)
 </div>
 [waitbutwhy.com](waitbutwhy.com/2014/06/taming-mammoth-let-peoples-opinions-run-life.html)
 
@@ -1155,6 +1151,8 @@ on why you should define your fears instead of your goals.
 
 ---
 
+Layout: long-quote
+
 Trail: Practice, Fear-setting
 
 > ...visualizing the worst-case scenarios, in detail, that you fear, preventing you from taking action, so that you can take action to overcome that paralysis.
@@ -1223,6 +1221,8 @@ experiment by Jia Jiang
 
 ---
 
+Layout: long-quote
+
 Trail: Practice, Rejection Therapy
 
 > My goal was to **desensitize myself** from the pain of rejection and overcome my fear
@@ -1247,6 +1247,8 @@ There's a couple quotes from Jia that I think are really remarkable
 
 ---
 
+Layout: long-quote
+
 Trail: Practice, Rejection Therapy
 
 > Our imagination often takes us to the worst possible outcome, causing us to be much less likely to take that action. **We are really our own worst rejectors.**
@@ -1258,6 +1260,8 @@ Notes:
 ...How true is that...
 
 ---
+
+Layout: long-quote
 
 Trail: Practice, Rejection Therapy
 
@@ -1576,8 +1580,6 @@ Trail: Problem Solving
 
 ## **1. Identify The Crux**
 
-TODO: image of climber?
-
 Notes:
 
 In climbing, there is the notion of "the crux" on every route.
@@ -1636,8 +1638,6 @@ Trail: Problem Solving
 
 ## **3. Repeat**
 
-<!-- .element: class="fragment" -->
-
 Notes:
 
 Find the _next_ scariest part, and figure out a way to address it.
@@ -1656,11 +1656,13 @@ And this is pretty similar to the approach DDEisenhower used to manage his time.
 
 ---
 
+Layout: img-80
+
 Trail: Problem Solving
 
 ## Eisenhower Decision Matrix
 
-![Eisenhower Decision Matrix](/images/matrix-important.jpg)
+![Eisenhower Decision Matrix](/images/matrix-important.png)
 
 Notes:
 
@@ -1672,11 +1674,13 @@ I think it makes more sense as...
 
 ---
 
+Layout: img-80
+
 Trail: Problem Solving
 
 ## **Steve Hicks** Risk Matrix
 
-![Steve Hicks Risk Matrix](/images/matrix-scary.jpg)
+![Steve Hicks Risk Matrix](/images/matrix-scary.png)
 
 Notes:
 
@@ -1796,7 +1800,7 @@ You don't. And you shouldn't do it to yourself, either.
 
 Trail: Perspective
 
-TODO: image of a tree
+<!-- .slide: data-background="/images/tree.jpg" -->
 
 Notes:
 
@@ -1810,7 +1814,7 @@ their greatest successes
 
 Trail: Perspective
 
-TODO: image of saplings around a tree
+<!-- .slide: data-background="/images/sprouts.jpg" -->
 
 Notes:
 
@@ -1846,7 +1850,9 @@ Recap each
 
 ---
 
-<!-- .slide: data-background="/images/come-on.jpg" -->
+Layout: inverse
+
+<!-- .slide: data-background="/images/bouldering.jpg" -->
 
 Notes:
 
@@ -1906,7 +1912,7 @@ Trail: Resources, Image Credits
 
 ##### [Dalmation](https://www.flickr.com/photos/photosightfaces/17232325990)
 
-##### [Dead-end job](https://www.flickr.com/photos/qualityfrog/3551979846/in/photolist-NNJ1p-RCM4Wb-porW49-poEZTB-98EPcR-5CMyrA-9jVAhw-6pSPRQ-DwzD7x)
+##### [Work](https://www.pexels.com/photo/man-in-white-shirt-using-macbook-pro-52608/)
 
 ##### [About Schmidt](https://www.amazon.com/About-Schmidt-Jack-Nicholson/dp/B00AP8XC02)
 
@@ -1930,8 +1936,6 @@ Trail: Resources, Image Credits
 
 ##### [Spider](https://unsplash.com/photos/O-D0CdnDYEU)
 
-##### [Dog](http://www.afcent.af.mil/Units/386th-Air-Expeditionary-Wing/Features/Display/Article/425244/keep-running-dont-look-back/)
-
 ##### [Fail](https://www.gratisography.com/)
 
 ##### [Lizard](https://unsplash.com/photos/UuDeLGnpowY)
@@ -1940,7 +1944,7 @@ Trail: Resources, Image Credits
 
 ##### [Duck](https://www.gratisography.com/)
 
-##### [Climber](https://unsplash.com/photos/A_mWBNgFi4I)
+##### [Bouldering](https://unsplash.com/photos/NY1D4Zni7fc)
 
 ---
 

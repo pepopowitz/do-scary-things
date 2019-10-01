@@ -19,8 +19,6 @@ Trail: Problem Solving
 
 ## **1. Identify The Crux**
 
-TODO: image of climber?
-
 Notes:
 
 In climbing, there is the notion of "the crux" on every route.
@@ -79,8 +77,6 @@ Trail: Problem Solving
 
 ## **3. Repeat**
 
-<!-- .element: class="fragment" -->
-
 Notes:
 
 Find the _next_ scariest part, and figure out a way to address it.
@@ -99,11 +95,13 @@ And this is pretty similar to the approach DDEisenhower used to manage his time.
 
 ---
 
+Layout: img-80
+
 Trail: Problem Solving
 
 ## Eisenhower Decision Matrix
 
-![Eisenhower Decision Matrix](/images/matrix-important.jpg)
+![Eisenhower Decision Matrix](/images/matrix-important.png)
 
 Notes:
 
@@ -115,11 +113,13 @@ I think it makes more sense as...
 
 ---
 
+Layout: img-80
+
 Trail: Problem Solving
 
 ## **Steve Hicks** Risk Matrix
 
-![Steve Hicks Risk Matrix](/images/matrix-scary.jpg)
+![Steve Hicks Risk Matrix](/images/matrix-scary.png)
 
 Notes:
 
