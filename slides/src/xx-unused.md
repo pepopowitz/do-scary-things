@@ -55,3 +55,7 @@ Helps me recognize how goofy my fears are sometimes
 ---
 
 28:00 - finish "why", begin strategies
+
+56:00 - finish
+
+- Mention system 1 & 2 when explaining limbic system, so I can back-reference it

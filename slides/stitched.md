@@ -120,6 +120,10 @@ Notes:
 
 I'm a writer, at these URLs
 
+- personal
+
+- artsy engineering
+
 ---
 
 Footer: false
@@ -265,6 +269,8 @@ Trail: Chapman University Survey of American Fears
 ### 56% **People I love dying**
 
 Notes:
+
+health
 
 ...
 
@@ -536,11 +542,11 @@ Notes:
 
 if we see something dangerous,
 
-our limbic system does some pattern matching,
+our limbic system finds out about it,
 
-says "bweep bweep bweep"
+assesses it,
 
-and we run, before we even realize what's happening.
+and tells us to run away.
 
 ...
 
@@ -582,9 +588,11 @@ we seem to be **predisposed** to learn some fears
 
 the **primal ones**
 
-snakes & spiders, especially
+snakes & spiders, especially.
 
-the rest....
+...
+
+Most of our fears...
 
 ---
 
@@ -735,8 +743,6 @@ It's a part of our brain that evolved a long time ago, when we were lizards,
 
 and our only primal concerns were **surviving, reproducing, and not much else.**
 
-Author **Seth Godin** has a video where he talks about quieting your lizard brain.
-
 ---
 
 <!-- .slide: data-background="/images/alone.jpg" -->
@@ -776,7 +782,7 @@ that **bullies us into fearing even an ounce of rejection**.
 
 The science behind the mammoth, Tim argues, is that thousands of years ago, when we lived in caves, being rejected meant **being pushed out of the cave** and sleeping with the saber toothed tigers.
 
-Our **biology hasn't evolved** as quickly as our **civilizations have**...and so we're stuck with this fear, which doesn't make much sense anymore.
+Our **biology hasn't evolved** as quickly as our **civilizations have**...and so we're stuck with this fear, this mammoth that's been hanging around for far too long, and doesn't make much sense anymore.
 
 ...
 
@@ -850,6 +856,8 @@ because of this nature to compare ourselves
 
 ---
 
+Footer: false
+
 <!-- .slide: data-background="/images/outcomes-1.jpg" -->
 
 Notes:
@@ -867,6 +875,8 @@ we'll focus on the worst ones.
 we might look at **one or two of the good ones**, but mostly we focus on the really awful ones.
 
 ---
+
+Footer: false
 
 <!-- .slide: data-background="/images/outcomes-2.jpg" -->
 
@@ -957,9 +967,13 @@ Trail: Preparation, Identify Your Fear
 
 Notes:
 
-Do some time travelling.
+Do some time travelling, to the future.
 
-Write it from perspective of your best friend.
+Write your obituary, and answer one question:
+
+(click)
+
+Answer it from perspective of your best friend.
 
 if you can't figure it out....just ASK your best friend.
 
@@ -999,19 +1013,27 @@ Trail: Preparation, Find A Squad
 
 Notes:
 
-- Feel comfortable "failing" with them
+1 - Feel comfortable "failing" with them
 
 ...
 
-- Hold each other accountable - don't be ruinously empathic
+2 - Hold each other accountable - don't be ruinously empathic
 
 Give difficult feedback because you **care**
 
 ...
 
+3 - (reassurance)
+
 that fears are not what rule you
 
 And work through those fears and failures together.
+
+...
+
+4 -
+
+TODO: figure out what to say about opportunities.
 
 ---
 
@@ -1024,6 +1046,10 @@ Just like talking to the duck helps you work through coding problems
 and dreams seem less scary after you talk them over with someone
 
 Talking to your squad can help you keep your fears in perspective.
+
+...
+
+and that's important to help you...
 
 ---
 
@@ -1126,6 +1152,8 @@ If we spend our time focusing on failures, instead of successes,
 we can end up self-handicapping.
 
 This is when we avoid effort to keep failure from hurting us.
+
+TODO: give an example
 ---
 Layout: module
 
@@ -1321,11 +1349,13 @@ Trail: Practice, Rejection Ritual
 
 Notes:
 
-1. for considering you
+if I'm applying for jobs, I might do this every time I get rejected:
 
-2. that you've received elsewhere
+1 - for considering you
 
-3.
+2 - that you've received elsewhere
+
+3 -
 
 Write this down, commit it to memory, don't forget to do it!
 
@@ -1346,15 +1376,15 @@ Trail: Practice, Rejection Ritual, Why?
 
 Notes:
 
-1. you're thinking about this fear logically instead of emotionally
+1 - you're thinking about this fear logically instead of emotionally
 
 slowing it down so system 2 can process it
 
-2. to something positive, instead of dwelling on another failure,
+2 - to something positive, instead of dwelling on another failure,
 
 and wondering what's wrong with you
 
-3. When you build a habit, your response becomes automatic
+3 - When you build a habit, your response becomes automatic
 
 You don't have to think about it - you're more likely to do the thing you want to do
 
@@ -1381,6 +1411,10 @@ Trail: Presence
 
 # Maintain A Strong And Mindful Presence
 
+Notes:
+
+and there are a lot of ways to maintain...
+
 ---
 
 Trail: Presence, Strong And Mindful
@@ -1405,6 +1439,8 @@ Notes:
 
 I use a different power pose
 
+Helps me center myself, slow down emotions & feel in control
+
 ---
 
 Trail: Presence, Strong And Mindful
@@ -1428,6 +1464,8 @@ Trail: Presence, Strong And Mindful
 # Recognize And Name The Emotion
 
 Notes:
+
+get better at...
 
 Fear is a pretty general emotion, and it can be helpful for you to be more specific about what's going on
 
@@ -1464,9 +1502,9 @@ Notes:
 
 Possible Benefits -
 
-1. Levels emotional responses, you become better at treating emotions as facts, not inescapable feelings
+1 - Levels emotional responses, you become better at treating emotions as facts, not inescapable feelings
 
-2. Increases your persistence
+2 - Increases your persistence
 
 ...
 
@@ -1524,6 +1562,10 @@ Trail: Presence, Strong And Mindful, Mantras
 
 > I control my emotions, they do not control me.
 
+Notes:
+
+here are some mantras I've used recently
+
 ---
 
 Trail: Presence
@@ -1544,11 +1586,13 @@ Trail: Presence, Time Travel
 
 Notes:
 
+If I'm going to start my own company & I'm panicking,
+
 "This time next week, I will be sitting down with a beer, after having quit my job to start my own company."
 
 ---
 
-Trail: Presence
+Trail: Presence, Time Travel
 
 # Envision Future You
 
@@ -1810,6 +1854,8 @@ and when we see someone successful, this is what we see:
 
 their greatest successes
 
+their massive accomplishments
+
 ---
 
 Trail: Perspective
@@ -1846,7 +1892,15 @@ Layout: module
 
 Notes:
 
-Recap each
+1 - Prepare yourself for the challenge of doing something scary
+
+2 - Practice overcoming fears and rejection, so that it becomes easier
+
+3 - Maintain a strong mindful and physical presence
+
+4 - Use the problem solving skills you already possess to break problems down
+
+5 - Maintain perspective - failure is great if it's used for learning and growing.
 
 ---
 

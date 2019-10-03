@@ -193,11 +193,13 @@ Trail: Practice, Rejection Ritual
 
 Notes:
 
-1. for considering you
+if I'm applying for jobs, I might do this every time I get rejected:
 
-2. that you've received elsewhere
+1 - for considering you
 
-3.
+2 - that you've received elsewhere
+
+3 -
 
 Write this down, commit it to memory, don't forget to do it!
 
@@ -218,15 +220,15 @@ Trail: Practice, Rejection Ritual, Why?
 
 Notes:
 
-1. you're thinking about this fear logically instead of emotionally
+1 - you're thinking about this fear logically instead of emotionally
 
 slowing it down so system 2 can process it
 
-2. to something positive, instead of dwelling on another failure,
+2 - to something positive, instead of dwelling on another failure,
 
 and wondering what's wrong with you
 
-3. When you build a habit, your response becomes automatic
+3 - When you build a habit, your response becomes automatic
 
 You don't have to think about it - you're more likely to do the thing you want to do
 

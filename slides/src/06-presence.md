@@ -16,6 +16,10 @@ Trail: Presence
 
 # Maintain A Strong And Mindful Presence
 
+Notes:
+
+and there are a lot of ways to maintain...
+
 ---
 
 Trail: Presence, Strong And Mindful
@@ -40,6 +44,8 @@ Notes:
 
 I use a different power pose
 
+Helps me center myself, slow down emotions & feel in control
+
 ---
 
 Trail: Presence, Strong And Mindful
@@ -63,6 +69,8 @@ Trail: Presence, Strong And Mindful
 # Recognize And Name The Emotion
 
 Notes:
+
+get better at...
 
 Fear is a pretty general emotion, and it can be helpful for you to be more specific about what's going on
 
@@ -99,9 +107,9 @@ Notes:
 
 Possible Benefits -
 
-1. Levels emotional responses, you become better at treating emotions as facts, not inescapable feelings
+1 - Levels emotional responses, you become better at treating emotions as facts, not inescapable feelings
 
-2. Increases your persistence
+2 - Increases your persistence
 
 ...
 
@@ -159,6 +167,10 @@ Trail: Presence, Strong And Mindful, Mantras
 
 > I control my emotions, they do not control me.
 
+Notes:
+
+here are some mantras I've used recently
+
 ---
 
 Trail: Presence
@@ -179,11 +191,13 @@ Trail: Presence, Time Travel
 
 Notes:
 
+If I'm going to start my own company & I'm panicking,
+
 "This time next week, I will be sitting down with a beer, after having quit my job to start my own company."
 
 ---
 
-Trail: Presence
+Trail: Presence, Time Travel
 
 # Envision Future You
 

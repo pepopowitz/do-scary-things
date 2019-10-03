@@ -50,11 +50,11 @@ Notes:
 
 if we see something dangerous,
 
-our limbic system does some pattern matching,
+our limbic system finds out about it,
 
-says "bweep bweep bweep"
+assesses it,
 
-and we run, before we even realize what's happening.
+and tells us to run away.
 
 ...
 
@@ -96,9 +96,11 @@ we seem to be **predisposed** to learn some fears
 
 the **primal ones**
 
-snakes & spiders, especially
+snakes & spiders, especially.
 
-the rest....
+...
+
+Most of our fears...
 
 ---
 
@@ -249,8 +251,6 @@ It's a part of our brain that evolved a long time ago, when we were lizards,
 
 and our only primal concerns were **surviving, reproducing, and not much else.**
 
-Author **Seth Godin** has a video where he talks about quieting your lizard brain.
-
 ---
 
 <!-- .slide: data-background="/images/alone.jpg" -->
@@ -290,7 +290,7 @@ that **bullies us into fearing even an ounce of rejection**.
 
 The science behind the mammoth, Tim argues, is that thousands of years ago, when we lived in caves, being rejected meant **being pushed out of the cave** and sleeping with the saber toothed tigers.
 
-Our **biology hasn't evolved** as quickly as our **civilizations have**...and so we're stuck with this fear, which doesn't make much sense anymore.
+Our **biology hasn't evolved** as quickly as our **civilizations have**...and so we're stuck with this fear, this mammoth that's been hanging around for far too long, and doesn't make much sense anymore.
 
 ...
 
@@ -364,6 +364,8 @@ because of this nature to compare ourselves
 
 ---
 
+Footer: false
+
 <!-- .slide: data-background="/images/outcomes-1.jpg" -->
 
 Notes:
@@ -381,6 +383,8 @@ we'll focus on the worst ones.
 we might look at **one or two of the good ones**, but mostly we focus on the really awful ones.
 
 ---
+
+Footer: false
 
 <!-- .slide: data-background="/images/outcomes-2.jpg" -->
 

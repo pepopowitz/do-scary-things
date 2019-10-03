@@ -106,6 +106,10 @@ Notes:
 
 I'm a writer, at these URLs
 
+- personal
+
+- artsy engineering
+
 ---
 
 Footer: false

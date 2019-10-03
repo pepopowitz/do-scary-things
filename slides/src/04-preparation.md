@@ -48,9 +48,13 @@ Trail: Preparation, Identify Your Fear
 
 Notes:
 
-Do some time travelling.
+Do some time travelling, to the future.
 
-Write it from perspective of your best friend.
+Write your obituary, and answer one question:
+
+(click)
+
+Answer it from perspective of your best friend.
 
 if you can't figure it out....just ASK your best friend.
 
@@ -90,19 +94,27 @@ Trail: Preparation, Find A Squad
 
 Notes:
 
-- Feel comfortable "failing" with them
+1 - Feel comfortable "failing" with them
 
 ...
 
-- Hold each other accountable - don't be ruinously empathic
+2 - Hold each other accountable - don't be ruinously empathic
 
 Give difficult feedback because you **care**
 
 ...
 
+3 - (reassurance)
+
 that fears are not what rule you
 
 And work through those fears and failures together.
+
+...
+
+4 -
+
+TODO: figure out what to say about opportunities.
 
 ---
 
@@ -115,6 +127,10 @@ Just like talking to the duck helps you work through coding problems
 and dreams seem less scary after you talk them over with someone
 
 Talking to your squad can help you keep your fears in perspective.
+
+...
+
+and that's important to help you...
 
 ---
 
@@ -217,3 +233,5 @@ If we spend our time focusing on failures, instead of successes,
 we can end up self-handicapping.
 
 This is when we avoid effort to keep failure from hurting us.
+
+TODO: give an example

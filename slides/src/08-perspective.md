@@ -113,6 +113,8 @@ and when we see someone successful, this is what we see:
 
 their greatest successes
 
+their massive accomplishments
+
 ---
 
 Trail: Perspective
