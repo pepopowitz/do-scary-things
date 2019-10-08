@@ -134,3 +134,7 @@ And what we're really doing...
 is the same thing we do every day as developers.
 
 Breaking a problem down into smaller problems.
+
+...
+
+(pause)

@@ -1154,6 +1154,10 @@ we can end up self-handicapping.
 This is when we avoid effort to keep failure from hurting us.
 
 TODO: give an example
+
+...
+
+(pause)
 ---
 Layout: module
 
@@ -1393,6 +1397,10 @@ When you brush your teeth in the morning, do you make a decision?
 No, you just do it
 
 ...unless you're a remote worker, and then you just kind of forget for a few days
+
+...
+
+(pause)
 ---
 
 Layout: module
@@ -1558,9 +1566,9 @@ Trail: Presence, Strong And Mindful, Mantras
 
 > Strong like Steph; focused like Olivia; light like Lila.
 
-> **Action conquers fear.**
+> **Choosing my own suffering is the ultimate privilege.**
 
-> I control my emotions, they do not control me.
+> Action conquers fear.
 
 Notes:
 
@@ -1603,6 +1611,10 @@ The you three years from now
 who is giving their first keynote
 
 looking back on this first-ever talk you're about to give.
+
+...
+
+(pause)
 ---
 Layout: module
 
@@ -1739,6 +1751,10 @@ And what we're really doing...
 is the same thing we do every day as developers.
 
 Breaking a problem down into smaller problems.
+
+...
+
+(pause)
 ---
 Layout: module
 
@@ -1873,6 +1889,10 @@ They've been laying seeds for a long time
 That's what it takes.
 
 Cultivating a garden - the harvest doesn't come immediately; it comes with persistence, consistency, and just doing the work.
+
+...
+
+(pause)
 ---
 Layout: module
 

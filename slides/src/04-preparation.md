@@ -235,3 +235,7 @@ we can end up self-handicapping.
 This is when we avoid effort to keep failure from hurting us.
 
 TODO: give an example
+
+...
+
+(pause)

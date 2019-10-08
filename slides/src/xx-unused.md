@@ -54,8 +54,15 @@ Helps me recognize how goofy my fears are sometimes
 
 ---
 
-28:00 - finish "why", begin strategies
+finish "why", begin strategies
+1 - 28:00
+2 - 24:30
 
-56:00 - finish
+finish
+1 - 56:00
+2 - 55:00
 
 - Mention system 1 & 2 when explaining limbic system, so I can back-reference it
+- remove amygdala hijack, combine it with description of limbic.
+- add "choosing my own suffering is the ultimate privilege" to mantras
+

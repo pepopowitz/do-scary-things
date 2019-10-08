@@ -163,9 +163,9 @@ Trail: Presence, Strong And Mindful, Mantras
 
 > Strong like Steph; focused like Olivia; light like Lila.
 
-> **Action conquers fear.**
+> **Choosing my own suffering is the ultimate privilege.**
 
-> I control my emotions, they do not control me.
+> Action conquers fear.
 
 Notes:
 
@@ -208,3 +208,7 @@ The you three years from now
 who is giving their first keynote
 
 looking back on this first-ever talk you're about to give.
+
+...
+
+(pause)

@@ -237,3 +237,7 @@ When you brush your teeth in the morning, do you make a decision?
 No, you just do it
 
 ...unless you're a remote worker, and then you just kind of forget for a few days
+
+...
+
+(pause)
