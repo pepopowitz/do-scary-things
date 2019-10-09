@@ -202,7 +202,7 @@ We see a similar example in rock climbing.
 
 Trail: Preparation, Focus On Successes
 
-<!-- .slide: data-background="/images/route-reading.jpg" data-background-size="70%" -->
+<!-- .slide: data-background="/images/route-reading.png" data-background-size="70%" -->
 
 Notes:
 
@@ -222,9 +222,9 @@ And it'd be useful if we did the same with our careers, wouldn't it?
 
 ---
 
-Trail: Preparation, Focus On Successes
+Footer: false
 
-TODO: image of wall of motivation
+<!-- .slide: data-background="/images/wall-of-motivation.jpg" -->
 
 Notes:
 
@@ -248,7 +248,15 @@ we can end up self-handicapping.
 
 This is when we avoid effort to keep failure from hurting us.
 
-TODO: give an example
+Example:
+
+When you see a job posting at a company you think is out of your league
+
+And you say "they would never hire me"
+
+And you haven't even given them the chance to say no, or even crazier YES
+
+This kind of behavior holds you back.
 
 ...
 

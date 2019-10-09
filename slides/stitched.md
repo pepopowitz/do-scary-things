@@ -520,11 +520,9 @@ Notes:
 Over-simplified, the popular science looks like this:
 ---
 
-Trail: Why Do We Fear?
+Footer: false
 
 <!-- .slide: data-background="/images/brain-fear-1.jpg" -->
-
-TODO: image of brain with limbic system
 
 Notes:
 
@@ -540,9 +538,7 @@ Like **fear, anger, memory,** and emotions related to **reproduction.**
 
 ---
 
-Trail: Why Do We Fear?
-
-TODO: image of brain with limbic system + sensory inputs
+Footer: false
 
 <!-- .slide: data-background="/images/brain-fear-2.jpg" -->
 
@@ -554,9 +550,7 @@ is to **take sensory inputs**...
 
 ---
 
-Trail: Why Do We Fear?
-
-TODO: image of brain with limbic system + inputs + sending to PFC
+Footer: false
 
 <!-- .slide: data-background="/images/brain-fear-3.jpg" -->
 
@@ -570,9 +564,7 @@ It does a pretty solid job of **identifying threats (or non-threats)**
 
 ---
 
-Trail: Why Do We Fear?
-
-TODO: image of brain with limbic system + inputs + PFC + response
+Footer: false
 
 <!-- .slide: data-background="/images/brain-fear-4.jpg" -->
 
@@ -600,9 +592,7 @@ So, the limbic system...
 
 ---
 
-Trail: Why Do We Fear?
-
-TODO: image of brain with limbic system + inputs + !!! response !!!
+Footer: false
 
 <!-- .slide: data-background="/images/brain-fear-5.jpg" -->
 
@@ -630,9 +620,7 @@ I know it's not a fire. But the smoke alarm, my limbic system, responds quicker 
 
 ---
 
-Trail: Why Do We Fear?
-
-TODO: image of brain with limbic system + inputs + !!! response !!!
+Footer: false
 
 <!-- .slide: data-background="/images/brain-fear-5.jpg" -->
 
@@ -690,9 +678,7 @@ But most of our fears we learn by association
 
 ---
 
-Trail: Why Do We Fear?
-
-TODO: image of brain with limbic system + inputs + !!! response !!!
+Footer: false
 
 <!-- .slide: data-background="/images/brain-fear-5.jpg" -->
 
@@ -734,7 +720,9 @@ who has never had a bad experience with a dog,
 
 ---
 
-TODO: image of snowball
+Layout: inverse
+
+<!-- .slide: data-background="/images/snowball.jpg" -->
 
 Notes:
 
@@ -883,7 +871,7 @@ because of this nature to compare ourselves
 
 ---
 
-<!-- .slide: data-background="/images/outcomes-1.jpg" data-background-size="80%"  -->
+<!-- .slide: data-background="/images/outcomes-1.png" data-background-size="80%"  -->
 
 Notes:
 
@@ -901,9 +889,7 @@ we might look at **one or two of the good ones**, but mostly we focus on the rea
 
 ---
 
-Footer: false
-
-<!-- .slide: data-background="/images/outcomes-2.jpg" data-background-size="80%" -->
+<!-- .slide: data-background="/images/outcomes-2.png" data-background-size="80%" -->
 
 Notes:
 
@@ -913,7 +899,7 @@ one in which the range of outcomes look like this,
 
 ---
 
-<!-- .slide: data-background="/images/outcomes-3.jpg" data-background-size="80%" -->
+<!-- .slide: data-background="/images/outcomes-3.png" data-background-size="80%" -->
 
 Notes:
 
@@ -1146,7 +1132,7 @@ We see a similar example in rock climbing.
 
 Trail: Preparation, Focus On Successes
 
-<!-- .slide: data-background="/images/route-reading.jpg" data-background-size="70%" -->
+<!-- .slide: data-background="/images/route-reading.png" data-background-size="70%" -->
 
 Notes:
 
@@ -1166,9 +1152,9 @@ And it'd be useful if we did the same with our careers, wouldn't it?
 
 ---
 
-Trail: Preparation, Focus On Successes
+Footer: false
 
-TODO: image of wall of motivation
+<!-- .slide: data-background="/images/wall-of-motivation.jpg" -->
 
 Notes:
 
@@ -1192,7 +1178,15 @@ we can end up self-handicapping.
 
 This is when we avoid effort to keep failure from hurting us.
 
-TODO: give an example
+Example:
+
+When you see a job posting at a company you think is out of your league
+
+And you say "they would never hire me"
+
+And you haven't even given them the chance to say no, or even crazier YES
+
+This kind of behavior holds you back.
 
 ...
 
@@ -2058,11 +2052,9 @@ Trail: Resources, Image Credits
 
 ##### [Spider](https://unsplash.com/photos/O-D0CdnDYEU)
 
+##### [Snowballs](https://flickr.com/photos/19melissa68/5426884312/)
+
 ##### [Fail](https://www.gratisography.com/)
-
-##### [Lizard](https://unsplash.com/photos/UuDeLGnpowY)
-
-##### [Fearful Man](http://maxpixel.freegreatpicture.com/Schreck-Mouth-Man-Scared-Face-Eyes-Hand-70603)
 
 ##### [Duck](https://www.gratisography.com/)
 

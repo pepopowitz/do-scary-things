@@ -131,11 +131,9 @@ Trail: Resources, Image Credits
 
 ##### [Spider](https://unsplash.com/photos/O-D0CdnDYEU)
 
+##### [Snowballs](https://flickr.com/photos/19melissa68/5426884312/)
+
 ##### [Fail](https://www.gratisography.com/)
-
-##### [Lizard](https://unsplash.com/photos/UuDeLGnpowY)
-
-##### [Fearful Man](http://maxpixel.freegreatpicture.com/Schreck-Mouth-Man-Scared-Face-Eyes-Hand-70603)
 
 ##### [Duck](https://www.gratisography.com/)
 
