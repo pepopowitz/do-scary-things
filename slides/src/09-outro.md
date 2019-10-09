@@ -39,13 +39,29 @@ I'm going to close with one more story about climbing.
 
 story
 
-Some things we fear because we really want them. Sometimes it takes an external voice, the voice of a stranger, to say "come on". To remind us that we are capable of much more than we let ourselves be.
+I thought about it long after, as more profound than it immediately seemed
 
-Just as that guy I didn't know in the bouldering cave reminded me, I am here to remind you.
+We tell ourselves lies
 
-You are capable of accomplishing scary things.
+We make ourselves believe stories about ourselves that just aren't true
 
-Come on. You got this.
+We convince ourselves we _can't_ do something, because we are afraid of actually failing
+
+and sometimes we need a stranger to look at us
+
+and with fearless confidence remind us that yes
+
+we can do it
+
+We _are_ capable of accomplishing amazing things
+
+And so just as that climber reminded me that day about the route I was climbing,
+
+I am here as a stranger to remind you that yes:
+
+you _can_ do it.
+
+You got this.
 
 ---
 

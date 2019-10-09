@@ -143,7 +143,7 @@ Trail: Practice, Rejection Therapy
 
 Notes:
 
-How many times have you done this?
+[long pause]
 
 ---
 
@@ -222,7 +222,7 @@ Notes:
 
 1 - you're thinking about this fear logically instead of emotionally
 
-slowing it down so system 2 can process it
+it might be that we're slowing it down so PFC can process it
 
 2 - to something positive, instead of dwelling on another failure,
 

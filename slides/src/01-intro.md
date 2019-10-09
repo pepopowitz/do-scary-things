@@ -40,7 +40,7 @@ Footer: false
 
 Notes:
 
-Engineer at Artsy
+Tech Lead at Artsy
 
 NYC, MKE
 
@@ -98,9 +98,9 @@ It was last weekend, did anyone go?
 
 ---
 
-[stevenhicks.me/articles](stevenhicks.me/articles)
+## [stevenhicks.me/articles](stevenhicks.me/articles)
 
-[artsy.github.io](artsy.github.io)
+## [artsy.github.io](artsy.github.io)
 
 Notes:
 
@@ -112,7 +112,7 @@ I'm a writer, at these URLs
 
 ---
 
-Footer: false
+Layout: inverse
 
 <!-- .slide: data-background="/images/me-speaking.jpg" -->
 
@@ -124,7 +124,7 @@ I've spoken at conferences throughout the Midwest, giving over 40 talks.
 
 ---
 
-Footer: false
+Layout: inverse
 
 <!-- .slide: data-background="/images/me-teaching-2.jpg" -->
 

@@ -6,13 +6,13 @@ Notes:
 Over-simplified, the popular science looks like this:
 ---
 
-Trail: Limbic system
+Trail: Why Do We Fear?
 
-<!-- .slide: data-background="/images/brain.jpg" -->
+<!-- .slide: data-background="/images/brain-fear-1.jpg" -->
+
+TODO: image of brain with limbic system
 
 Notes:
-
-looks like this.
 
 There is a group of structures in our brain
 
@@ -22,55 +22,125 @@ this system is involved in many of our **emotions and motivations**
 
 especially those **related to survival.**
 
-Like **fear, anger,** and emotions related to **reproduction.**
+Like **fear, anger, memory,** and emotions related to **reproduction.**
 
 ---
 
-Trail: Limbic system
+Trail: Why Do We Fear?
 
-<!-- .slide: data-background="/images/brain-process.jpg" -->
+TODO: image of brain with limbic system + sensory inputs
+
+<!-- .slide: data-background="/images/brain-fear-2.jpg" -->
 
 Notes:
 
 And the limbic system has many functions, but one of its main functions,
 
-is to **take sensory inputs**
-
-and send them to be **triaged**
-
-so that **threats can be identified**
-
-and then **trigger** an appropriate physical **response.**
+is to **take sensory inputs**...
 
 ---
+
+Trail: Why Do We Fear?
+
+TODO: image of brain with limbic system + inputs + sending to PFC
+
+<!-- .slide: data-background="/images/brain-fear-3.jpg" -->
+
+Notes:
+
+and send them to be **triaged** in the prefrontal cortex.
+
+The prefrontal cortex is a newer part of the brain - **more evolved**.
+
+It does a pretty solid job of **identifying threats (or non-threats)**
+
+---
+
+Trail: Why Do We Fear?
+
+TODO: image of brain with limbic system + inputs + PFC + response
+
+<!-- .slide: data-background="/images/brain-fear-4.jpg" -->
+
+Notes:
+
+and then it can **trigger** an appropriate physical **response.**
+
+...
+
+BUT...
+
+The PFC is SLOW.
+
+---
+
+Layout: inverse
 
 <!-- .slide: data-background="/images/tiger.jpg" -->
 
 Notes:
 
-if we see something dangerous,
+And sometimes we don't have a lot of time to process threats
 
-our limbic system finds out about it,
+So, the limbic system...
 
-assesses it,
+---
 
-and tells us to run away.
+Trail: Why Do We Fear?
+
+TODO: image of brain with limbic system + inputs + !!! response !!!
+
+<!-- .slide: data-background="/images/brain-fear-5.jpg" -->
+
+Notes:
+
+Has the security clearance to make snap judgments
+
+And provoke the body into a response
+
+without involving the smarter, slower, PFC
+
+This is often where you feel fight or flight
+
+---
+
+Trail: Why Do We Fear?
+
+<!-- .slide: data-background="/images/pizza.jpg" -->
+
+Notes:
+
+It's sort of like how every time I put a pizza in the oven, the smoke alarm in my hallway goes off.
+
+I know it's not a fire. But the smoke alarm, my limbic system, responds quicker than I (or my PFC) can.
+
+---
+
+Trail: Why Do We Fear?
+
+TODO: image of brain with limbic system + inputs + !!! response !!!
+
+<!-- .slide: data-background="/images/brain-fear-5.jpg" -->
+
+Notes:
+
+This system is great!
+
+It's like legacy code -
+
+it has helped our species survive, and it works, so just nobody touch it.
 
 ...
 
-There's **great value** in the limbic system
-
-and in our fears
-
-...
-
-We are **born with** this limbic system
+We are **born with** this system
 
 and the **ability to fear things**
 
 But current studies seem to indicate...
 
 ---
+
+Layout: inverse
 
 <!-- .slide: data-background="/images/no-fear.jpg" -->
 
@@ -88,6 +158,8 @@ the majority, if not all, of our **fears are learned**.
 
 ---
 
+Layout: inverse
+
 <!-- .slide: data-background="/images/spider.jpg" -->
 
 Notes:
@@ -100,15 +172,33 @@ snakes & spiders, especially.
 
 ...
 
-Most of our fears...
+But most of our fears we learn by association
 
 ---
+
+Trail: Why Do We Fear?
+
+TODO: image of brain with limbic system + inputs + !!! response !!!
+
+<!-- .slide: data-background="/images/brain-fear-5.jpg" -->
+
+Notes:
+
+The limbic system that gets to make snap judgments on inputs -
+
+It does so with simple pattern matching.
+
+If it looks like something we associate with a threat,
+
+It gets categorized as something worth fearing.
+
+---
+
+Layout: inverse
 
 <!-- .slide: data-background="/images/dog.jpg" -->
 
 Notes:
-
-we learn by association.
 
 It might be that **we have an experience**, and associate sharp teeth with something we should fear
 
@@ -127,6 +217,20 @@ who has never had a bad experience with a dog,
 **climbed me like a tree** a couple years ago, shrieking, when a dog came running up to her.
 
 [Explain why].
+
+---
+
+TODO: image of snowball
+
+Notes:
+
+This pattern matching is also why once you develop a fear of something,
+
+It grows worse over time
+
+The pattern matching continues to associate this thing with a threat
+
+Even if it never really was one.
 
 ---
 
@@ -152,114 +256,15 @@ Notes:
 
 ---
 
-<!-- .slide: data-background="/images/failure.jpg" -->
-
-Notes:
-
-so as you can see, sometimes the **system fails.**
-
-we can **impart fears** on our children unintentionally.
-
-...
-
-there's also something called...
-
----
-
-# Amygdala Hijack
-
-Notes:
-
----
-
-<div class="img-30">
-![Emotional Intelligence book](/images/emotional-intelligence.jpg)
-</div>
-Notes:
-
-this term comes from the book Emotional Intelligence
-
-by Daniel Goleman
-
----
-
-Trail: Amygdala
-
-<!-- .slide: data-background="/images/brain-amygdala.jpg" -->
-
-Notes:
-
-The structure at the center of your fight or flight reactions
-
-is called the amygdala
-
-(you might have heard it's responsible for fear, but it's only part of a system.)
-
-It is basically like the **smoke alarm** in our brain.
-
-It's one of the **first things to be notified** by our senses when we perceive external stimuli
-
-This is basically what has **allowed us to survive** as a species.
-
----
-
-Trail: Amygdala
-
-<!-- .slide: data-background="/images/brain-process.jpg" -->
-
-Notes:
-
-when everything is working correctly,
-
-the amygdala can get the inputs and send them to the smarter parts of your brain
-
-to figure out if they are a threat or not.
-
----
-
-Trail: Amygdala
-
-<!-- .slide: data-background="/images/brain-hijack.jpg" -->
-
-Notes:
-
-but sometimes there isn't enough time to wait for an official assessment.
-
-and so the amygdala sends out a **panic alarm**
-
-before your prefontal cortex can evaluate the threat and say "whoa - not a big deal."
-
----
-
-<!-- .slide: data-background="/images/pizza.jpg" -->
-
-Notes:
-
-It's sort of like how every time I put a pizza in the oven, the smoke alarm in my hallway goes off.
-
-I know it's not a fire. But the smoke alarm, aka amygdala, responds quicker than I (or my prefontal cortex) can.
-
----
-
-<!-- .slide: data-background="/images/lizard.jpg" -->
-
-Notes:
-
-And in fact, the amygdala is so simplistic, that it's often referred to as **the lizard brain**
-
-It's a part of our brain that evolved a long time ago, when we were lizards,
-
-and our only primal concerns were **surviving, reproducing, and not much else.**
-
----
+Layout: inverse
 
 <!-- .slide: data-background="/images/alone.jpg" -->
 
 Notes:
 
-That's the science behind fear.
+That's some science behind fear.
 
-Let's look more from the emotional side.
+Let's explore what we _feel_ when we fear something.
 
 These fears that I'm interested in - of **rejection**
 
@@ -364,9 +369,7 @@ because of this nature to compare ourselves
 
 ---
 
-Footer: false
-
-<!-- .slide: data-background="/images/outcomes-1.jpg" -->
+<!-- .slide: data-background="/images/outcomes-1.jpg" data-background-size="80%"  -->
 
 Notes:
 
@@ -386,7 +389,7 @@ we might look at **one or two of the good ones**, but mostly we focus on the rea
 
 Footer: false
 
-<!-- .slide: data-background="/images/outcomes-2.jpg" -->
+<!-- .slide: data-background="/images/outcomes-2.jpg" data-background-size="80%" -->
 
 Notes:
 
@@ -396,7 +399,7 @@ one in which the range of outcomes look like this,
 
 ---
 
-<!-- .slide: data-background="/images/outcomes-3.jpg" -->
+<!-- .slide: data-background="/images/outcomes-3.jpg" data-background-size="80%" -->
 
 Notes:
 
@@ -420,8 +423,8 @@ But our brain tells us stories, and very often those stories are unfounded lies.
 
 > We suffer more in imagination than in reality
 
-[Seneca the Younger](#TODO:some-link)
+[Seneca the Younger](https://dailystoic.com/seneca-quotes/)
 
 Notes:
 
-Stoic philosopher from ancient Rome
+(Stoic philosopher from ancient Rome)

@@ -114,9 +114,17 @@ And work through those fears and failures together.
 
 4 -
 
-TODO: figure out what to say about opportunities.
+There's a stigma around accepting that friends bring you opportunities
+
+especially as humble midwesterners
+
+But if you feel like you wouldn't pass on opportunities to them, or they wouldn't pass on opportunities to you,
+
+do you have the right squad?
 
 ---
+
+Layout: inverse
 
 <!-- .slide: data-background="/images/duck.jpg" -->
 
@@ -148,6 +156,8 @@ I want to look to a couple examples outdoors to illustrate this.
 
 ---
 
+Layout: inverse-footer
+
 Trail: Preparation, Focus On Successes
 
 <!-- .slide: data-background="/images/biking-1.jpg" -->
@@ -160,6 +170,8 @@ When you start mountain biking, this is what the trail looks like:
 
 ---
 
+Layout: inverse-footer
+
 Trail: Preparation, Focus On Successes
 
 <!-- .slide: data-background="/images/biking-2.jpg" -->
@@ -171,6 +183,8 @@ Basically, all the things that could go wrong.
 But as you become a more skilled biker, the trail starts to look like this:
 
 ---
+
+Layout: inverse-footer
 
 Trail: Preparation, Focus On Successes
 
@@ -188,7 +202,7 @@ We see a similar example in rock climbing.
 
 Trail: Preparation, Focus On Successes
 
-<!-- .slide: data-background="/images/route-reading.jpg" -->
+<!-- .slide: data-background="/images/route-reading.jpg" data-background-size="70%" -->
 
 Notes:
 

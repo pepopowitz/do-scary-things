@@ -101,6 +101,8 @@ starting with some PRIMAL fears
 
 ---
 
+Layout: inverse
+
 <!-- .slide: data-background="/images/dog.jpg" -->
 
 Notes:
@@ -117,6 +119,8 @@ not high on chapman's list -
 
 ---
 
+Layout: inverse
+
 <!-- .slide: data-background="/images/snake.jpg" -->
 
 Notes:
@@ -129,6 +133,8 @@ I am creeped out by how they move
 
 ---
 
+Layout: inverse
+
 <!-- .slide: data-background="/images/about-schmidt.jpg" -->
 
 Notes:
@@ -137,7 +143,7 @@ I have some more long-term fears, too
 
 like a fear of getting old
 
-about schmidt?
+about schmidt - early 2000s
 
 Jack Nicholson plays a retiree who finds himself **more and more alone**
 
@@ -152,6 +158,8 @@ I wanted to curl into a ball the whole time.
 And I don't think it was until I saw this movie that I realized how much I feared getting old.
 
 ---
+
+Layout: inverse
 
 <!-- .slide: data-background="/images/steph.jpg" -->
 
@@ -180,6 +188,8 @@ some people fear
 
 ---
 
+Layout: inverse
+
 <!-- .slide: data-background="/images/work.jpg" -->
 
 Notes:
@@ -196,6 +206,8 @@ Who _doesn't_ have fears about work?
 
 ---
 
+Layout: inverse
+
 <!-- .slide: data-background="/images/friends.jpg" -->
 
 Notes:
@@ -205,6 +217,8 @@ then there's another subclass of fears
 that deal with **acceptance from our peers**
 
 ---
+
+Layout: inverse
 
 <!-- .slide: data-background="/images/peacock.jpg" -->
 
@@ -222,6 +236,8 @@ I went back and forth on pulling those slides out 25 times.
 
 ---
 
+Layout: inverse
+
 <!-- .slide: data-background="/images/humiliated.jpg" -->
 
 Notes:
@@ -233,6 +249,8 @@ i'm going to look dumb
 i.e. imposter syndrome
 
 ---
+
+Layout: inverse
 
 <!-- .slide: data-background="/images/speaking.jpg" -->
 
@@ -251,6 +269,8 @@ According to the Chapman research, **not true**.
 and these fears, and many like them, are all kind of the **same basic fear**
 
 ---
+
+Layout: inverse
 
 <!-- .slide: data-background="/images/alone.jpg" -->
 
@@ -275,6 +295,8 @@ but are too scared of
 or **quitting our job and going freelance**
 
 ---
+
+Layout: inverse
 
 <!-- .slide: data-background="/images/me-teaching.jpg" -->
 

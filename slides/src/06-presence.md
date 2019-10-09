@@ -80,11 +80,11 @@ Trail: Presence, Strong And Mindful, Recognize/Name Emotions
 
 <div class="double-wide">
   <h3>insecure</h3>
-  <h3>inadequate</h3>
-  <h3>anxious</h3>
+  <h3><strong>inadequate</strong></h3>
+  <h3><strong>anxious</strong></h3>
   <h3>threatened</h3>
   <h3>trapped</h3>
-  <h3>lonely</h3>
+  <h3><strong>lonely</strong></h3>
 </div>
 
 Notes:
@@ -93,9 +93,13 @@ Here are some more specific fearful emotions you might feel:
 
 ...
 
-The act of trying to name your emotion also slows your body down.
+The act of trying to name your emotion
 
-Gives system 2 some time to catch up.
+Might activate the PFC
+
+Gives it some time to catch up.
+
+It definitely gives your body the sense that things are slowing down so you can process them properly
 
 ---
 

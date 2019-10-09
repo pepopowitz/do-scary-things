@@ -93,7 +93,8 @@ body {
   font-size: 2rem;
   color: var(--brand-context);
 }
-.reveal .inverse .footer {
+.reveal .inverse .footer,
+.reveal .inverse-footer .footer {
   color: var(--brand-white);
   text-shadow: 0 1px 6px var(--brand-black);
 }

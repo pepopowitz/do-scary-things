@@ -33,29 +33,17 @@ This is great!
 
 Trail: Perspective
 
-> I have not failed. I've just found 10,000 ways that won't work.
-
-Thomas Edison
-
-Notes:
-
-I feel like this is the typical quote for embracing failure
-
----
-
-Trail: Perspective
-
 > If you ain't falling, you ain't learning.
 
 Chris Turner
 
 Notes:
 
-This is one that I like better
+A quote from a former coworker.
 
-From a former coworker.
+In regards to snowboarding
 
-In regards to snowboarding but so much more.
+but so much more.
 
 ---
 
@@ -117,6 +105,7 @@ their massive accomplishments
 
 ---
 
+Layout: inverse-footer
 Trail: Perspective
 
 <!-- .slide: data-background="/images/sprouts.jpg" -->

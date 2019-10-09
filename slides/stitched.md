@@ -54,7 +54,7 @@ Footer: false
 
 Notes:
 
-Engineer at Artsy
+Tech Lead at Artsy
 
 NYC, MKE
 
@@ -112,9 +112,9 @@ It was last weekend, did anyone go?
 
 ---
 
-[stevenhicks.me/articles](stevenhicks.me/articles)
+## [stevenhicks.me/articles](stevenhicks.me/articles)
 
-[artsy.github.io](artsy.github.io)
+## [artsy.github.io](artsy.github.io)
 
 Notes:
 
@@ -126,7 +126,7 @@ I'm a writer, at these URLs
 
 ---
 
-Footer: false
+Layout: inverse
 
 <!-- .slide: data-background="/images/me-speaking.jpg" -->
 
@@ -138,7 +138,7 @@ I've spoken at conferences throughout the Midwest, giving over 40 talks.
 
 ---
 
-Footer: false
+Layout: inverse
 
 <!-- .slide: data-background="/images/me-teaching-2.jpg" -->
 
@@ -284,6 +284,8 @@ starting with some PRIMAL fears
 
 ---
 
+Layout: inverse
+
 <!-- .slide: data-background="/images/dog.jpg" -->
 
 Notes:
@@ -300,6 +302,8 @@ not high on chapman's list -
 
 ---
 
+Layout: inverse
+
 <!-- .slide: data-background="/images/snake.jpg" -->
 
 Notes:
@@ -312,6 +316,8 @@ I am creeped out by how they move
 
 ---
 
+Layout: inverse
+
 <!-- .slide: data-background="/images/about-schmidt.jpg" -->
 
 Notes:
@@ -320,7 +326,7 @@ I have some more long-term fears, too
 
 like a fear of getting old
 
-about schmidt?
+about schmidt - early 2000s
 
 Jack Nicholson plays a retiree who finds himself **more and more alone**
 
@@ -335,6 +341,8 @@ I wanted to curl into a ball the whole time.
 And I don't think it was until I saw this movie that I realized how much I feared getting old.
 
 ---
+
+Layout: inverse
 
 <!-- .slide: data-background="/images/steph.jpg" -->
 
@@ -363,6 +371,8 @@ some people fear
 
 ---
 
+Layout: inverse
+
 <!-- .slide: data-background="/images/work.jpg" -->
 
 Notes:
@@ -379,6 +389,8 @@ Who _doesn't_ have fears about work?
 
 ---
 
+Layout: inverse
+
 <!-- .slide: data-background="/images/friends.jpg" -->
 
 Notes:
@@ -388,6 +400,8 @@ then there's another subclass of fears
 that deal with **acceptance from our peers**
 
 ---
+
+Layout: inverse
 
 <!-- .slide: data-background="/images/peacock.jpg" -->
 
@@ -405,6 +419,8 @@ I went back and forth on pulling those slides out 25 times.
 
 ---
 
+Layout: inverse
+
 <!-- .slide: data-background="/images/humiliated.jpg" -->
 
 Notes:
@@ -416,6 +432,8 @@ i'm going to look dumb
 i.e. imposter syndrome
 
 ---
+
+Layout: inverse
 
 <!-- .slide: data-background="/images/speaking.jpg" -->
 
@@ -434,6 +452,8 @@ According to the Chapman research, **not true**.
 and these fears, and many like them, are all kind of the **same basic fear**
 
 ---
+
+Layout: inverse
 
 <!-- .slide: data-background="/images/alone.jpg" -->
 
@@ -458,6 +478,8 @@ but are too scared of
 or **quitting our job and going freelance**
 
 ---
+
+Layout: inverse
 
 <!-- .slide: data-background="/images/me-teaching.jpg" -->
 
@@ -498,13 +520,13 @@ Notes:
 Over-simplified, the popular science looks like this:
 ---
 
-Trail: Limbic system
+Trail: Why Do We Fear?
 
-<!-- .slide: data-background="/images/brain.jpg" -->
+<!-- .slide: data-background="/images/brain-fear-1.jpg" -->
+
+TODO: image of brain with limbic system
 
 Notes:
-
-looks like this.
 
 There is a group of structures in our brain
 
@@ -514,55 +536,125 @@ this system is involved in many of our **emotions and motivations**
 
 especially those **related to survival.**
 
-Like **fear, anger,** and emotions related to **reproduction.**
+Like **fear, anger, memory,** and emotions related to **reproduction.**
 
 ---
 
-Trail: Limbic system
+Trail: Why Do We Fear?
 
-<!-- .slide: data-background="/images/brain-process.jpg" -->
+TODO: image of brain with limbic system + sensory inputs
+
+<!-- .slide: data-background="/images/brain-fear-2.jpg" -->
 
 Notes:
 
 And the limbic system has many functions, but one of its main functions,
 
-is to **take sensory inputs**
-
-and send them to be **triaged**
-
-so that **threats can be identified**
-
-and then **trigger** an appropriate physical **response.**
+is to **take sensory inputs**...
 
 ---
+
+Trail: Why Do We Fear?
+
+TODO: image of brain with limbic system + inputs + sending to PFC
+
+<!-- .slide: data-background="/images/brain-fear-3.jpg" -->
+
+Notes:
+
+and send them to be **triaged** in the prefrontal cortex.
+
+The prefrontal cortex is a newer part of the brain - **more evolved**.
+
+It does a pretty solid job of **identifying threats (or non-threats)**
+
+---
+
+Trail: Why Do We Fear?
+
+TODO: image of brain with limbic system + inputs + PFC + response
+
+<!-- .slide: data-background="/images/brain-fear-4.jpg" -->
+
+Notes:
+
+and then it can **trigger** an appropriate physical **response.**
+
+...
+
+BUT...
+
+The PFC is SLOW.
+
+---
+
+Layout: inverse
 
 <!-- .slide: data-background="/images/tiger.jpg" -->
 
 Notes:
 
-if we see something dangerous,
+And sometimes we don't have a lot of time to process threats
 
-our limbic system finds out about it,
+So, the limbic system...
 
-assesses it,
+---
 
-and tells us to run away.
+Trail: Why Do We Fear?
+
+TODO: image of brain with limbic system + inputs + !!! response !!!
+
+<!-- .slide: data-background="/images/brain-fear-5.jpg" -->
+
+Notes:
+
+Has the security clearance to make snap judgments
+
+And provoke the body into a response
+
+without involving the smarter, slower, PFC
+
+This is often where you feel fight or flight
+
+---
+
+Trail: Why Do We Fear?
+
+<!-- .slide: data-background="/images/pizza.jpg" -->
+
+Notes:
+
+It's sort of like how every time I put a pizza in the oven, the smoke alarm in my hallway goes off.
+
+I know it's not a fire. But the smoke alarm, my limbic system, responds quicker than I (or my PFC) can.
+
+---
+
+Trail: Why Do We Fear?
+
+TODO: image of brain with limbic system + inputs + !!! response !!!
+
+<!-- .slide: data-background="/images/brain-fear-5.jpg" -->
+
+Notes:
+
+This system is great!
+
+It's like legacy code -
+
+it has helped our species survive, and it works, so just nobody touch it.
 
 ...
 
-There's **great value** in the limbic system
-
-and in our fears
-
-...
-
-We are **born with** this limbic system
+We are **born with** this system
 
 and the **ability to fear things**
 
 But current studies seem to indicate...
 
 ---
+
+Layout: inverse
 
 <!-- .slide: data-background="/images/no-fear.jpg" -->
 
@@ -580,6 +672,8 @@ the majority, if not all, of our **fears are learned**.
 
 ---
 
+Layout: inverse
+
 <!-- .slide: data-background="/images/spider.jpg" -->
 
 Notes:
@@ -592,15 +686,33 @@ snakes & spiders, especially.
 
 ...
 
-Most of our fears...
+But most of our fears we learn by association
 
 ---
+
+Trail: Why Do We Fear?
+
+TODO: image of brain with limbic system + inputs + !!! response !!!
+
+<!-- .slide: data-background="/images/brain-fear-5.jpg" -->
+
+Notes:
+
+The limbic system that gets to make snap judgments on inputs -
+
+It does so with simple pattern matching.
+
+If it looks like something we associate with a threat,
+
+It gets categorized as something worth fearing.
+
+---
+
+Layout: inverse
 
 <!-- .slide: data-background="/images/dog.jpg" -->
 
 Notes:
-
-we learn by association.
 
 It might be that **we have an experience**, and associate sharp teeth with something we should fear
 
@@ -619,6 +731,20 @@ who has never had a bad experience with a dog,
 **climbed me like a tree** a couple years ago, shrieking, when a dog came running up to her.
 
 [Explain why].
+
+---
+
+TODO: image of snowball
+
+Notes:
+
+This pattern matching is also why once you develop a fear of something,
+
+It grows worse over time
+
+The pattern matching continues to associate this thing with a threat
+
+Even if it never really was one.
 
 ---
 
@@ -644,114 +770,15 @@ Notes:
 
 ---
 
-<!-- .slide: data-background="/images/failure.jpg" -->
-
-Notes:
-
-so as you can see, sometimes the **system fails.**
-
-we can **impart fears** on our children unintentionally.
-
-...
-
-there's also something called...
-
----
-
-# Amygdala Hijack
-
-Notes:
-
----
-
-<div class="img-30">
-![Emotional Intelligence book](/images/emotional-intelligence.jpg)
-</div>
-Notes:
-
-this term comes from the book Emotional Intelligence
-
-by Daniel Goleman
-
----
-
-Trail: Amygdala
-
-<!-- .slide: data-background="/images/brain-amygdala.jpg" -->
-
-Notes:
-
-The structure at the center of your fight or flight reactions
-
-is called the amygdala
-
-(you might have heard it's responsible for fear, but it's only part of a system.)
-
-It is basically like the **smoke alarm** in our brain.
-
-It's one of the **first things to be notified** by our senses when we perceive external stimuli
-
-This is basically what has **allowed us to survive** as a species.
-
----
-
-Trail: Amygdala
-
-<!-- .slide: data-background="/images/brain-process.jpg" -->
-
-Notes:
-
-when everything is working correctly,
-
-the amygdala can get the inputs and send them to the smarter parts of your brain
-
-to figure out if they are a threat or not.
-
----
-
-Trail: Amygdala
-
-<!-- .slide: data-background="/images/brain-hijack.jpg" -->
-
-Notes:
-
-but sometimes there isn't enough time to wait for an official assessment.
-
-and so the amygdala sends out a **panic alarm**
-
-before your prefontal cortex can evaluate the threat and say "whoa - not a big deal."
-
----
-
-<!-- .slide: data-background="/images/pizza.jpg" -->
-
-Notes:
-
-It's sort of like how every time I put a pizza in the oven, the smoke alarm in my hallway goes off.
-
-I know it's not a fire. But the smoke alarm, aka amygdala, responds quicker than I (or my prefontal cortex) can.
-
----
-
-<!-- .slide: data-background="/images/lizard.jpg" -->
-
-Notes:
-
-And in fact, the amygdala is so simplistic, that it's often referred to as **the lizard brain**
-
-It's a part of our brain that evolved a long time ago, when we were lizards,
-
-and our only primal concerns were **surviving, reproducing, and not much else.**
-
----
+Layout: inverse
 
 <!-- .slide: data-background="/images/alone.jpg" -->
 
 Notes:
 
-That's the science behind fear.
+That's some science behind fear.
 
-Let's look more from the emotional side.
+Let's explore what we _feel_ when we fear something.
 
 These fears that I'm interested in - of **rejection**
 
@@ -856,9 +883,7 @@ because of this nature to compare ourselves
 
 ---
 
-Footer: false
-
-<!-- .slide: data-background="/images/outcomes-1.jpg" -->
+<!-- .slide: data-background="/images/outcomes-1.jpg" data-background-size="80%"  -->
 
 Notes:
 
@@ -878,7 +903,7 @@ we might look at **one or two of the good ones**, but mostly we focus on the rea
 
 Footer: false
 
-<!-- .slide: data-background="/images/outcomes-2.jpg" -->
+<!-- .slide: data-background="/images/outcomes-2.jpg" data-background-size="80%" -->
 
 Notes:
 
@@ -888,7 +913,7 @@ one in which the range of outcomes look like this,
 
 ---
 
-<!-- .slide: data-background="/images/outcomes-3.jpg" -->
+<!-- .slide: data-background="/images/outcomes-3.jpg" data-background-size="80%" -->
 
 Notes:
 
@@ -912,11 +937,11 @@ But our brain tells us stories, and very often those stories are unfounded lies.
 
 > We suffer more in imagination than in reality
 
-[Seneca the Younger](#TODO:some-link)
+[Seneca the Younger](https://dailystoic.com/seneca-quotes/)
 
 Notes:
 
-Stoic philosopher from ancient Rome
+(Stoic philosopher from ancient Rome)
 ---
 
 # Strategies for
@@ -1033,9 +1058,17 @@ And work through those fears and failures together.
 
 4 -
 
-TODO: figure out what to say about opportunities.
+There's a stigma around accepting that friends bring you opportunities
+
+especially as humble midwesterners
+
+But if you feel like you wouldn't pass on opportunities to them, or they wouldn't pass on opportunities to you,
+
+do you have the right squad?
 
 ---
+
+Layout: inverse
 
 <!-- .slide: data-background="/images/duck.jpg" -->
 
@@ -1067,6 +1100,8 @@ I want to look to a couple examples outdoors to illustrate this.
 
 ---
 
+Layout: inverse-footer
+
 Trail: Preparation, Focus On Successes
 
 <!-- .slide: data-background="/images/biking-1.jpg" -->
@@ -1079,6 +1114,8 @@ When you start mountain biking, this is what the trail looks like:
 
 ---
 
+Layout: inverse-footer
+
 Trail: Preparation, Focus On Successes
 
 <!-- .slide: data-background="/images/biking-2.jpg" -->
@@ -1090,6 +1127,8 @@ Basically, all the things that could go wrong.
 But as you become a more skilled biker, the trail starts to look like this:
 
 ---
+
+Layout: inverse-footer
 
 Trail: Preparation, Focus On Successes
 
@@ -1107,7 +1146,7 @@ We see a similar example in rock climbing.
 
 Trail: Preparation, Focus On Successes
 
-<!-- .slide: data-background="/images/route-reading.jpg" -->
+<!-- .slide: data-background="/images/route-reading.jpg" data-background-size="70%" -->
 
 Notes:
 
@@ -1303,7 +1342,7 @@ Trail: Practice, Rejection Therapy
 
 Notes:
 
-How many times have you done this?
+[long pause]
 
 ---
 
@@ -1382,7 +1421,7 @@ Notes:
 
 1 - you're thinking about this fear logically instead of emotionally
 
-slowing it down so system 2 can process it
+it might be that we're slowing it down so PFC can process it
 
 2 - to something positive, instead of dwelling on another failure,
 
@@ -1483,11 +1522,11 @@ Trail: Presence, Strong And Mindful, Recognize/Name Emotions
 
 <div class="double-wide">
   <h3>insecure</h3>
-  <h3>inadequate</h3>
-  <h3>anxious</h3>
+  <h3><strong>inadequate</strong></h3>
+  <h3><strong>anxious</strong></h3>
   <h3>threatened</h3>
   <h3>trapped</h3>
-  <h3>lonely</h3>
+  <h3><strong>lonely</strong></h3>
 </div>
 
 Notes:
@@ -1496,9 +1535,13 @@ Here are some more specific fearful emotions you might feel:
 
 ...
 
-The act of trying to name your emotion also slows your body down.
+The act of trying to name your emotion
 
-Gives system 2 some time to catch up.
+Might activate the PFC
+
+Gives it some time to catch up.
+
+It definitely gives your body the sense that things are slowing down so you can process them properly
 
 ---
 
@@ -1790,29 +1833,17 @@ This is great!
 
 Trail: Perspective
 
-> I have not failed. I've just found 10,000 ways that won't work.
-
-Thomas Edison
-
-Notes:
-
-I feel like this is the typical quote for embracing failure
-
----
-
-Trail: Perspective
-
 > If you ain't falling, you ain't learning.
 
 Chris Turner
 
 Notes:
 
-This is one that I like better
+A quote from a former coworker.
 
-From a former coworker.
+In regards to snowboarding
 
-In regards to snowboarding but so much more.
+but so much more.
 
 ---
 
@@ -1874,6 +1905,7 @@ their massive accomplishments
 
 ---
 
+Layout: inverse-footer
 Trail: Perspective
 
 <!-- .slide: data-background="/images/sprouts.jpg" -->
@@ -1934,13 +1966,29 @@ I'm going to close with one more story about climbing.
 
 story
 
-Some things we fear because we really want them. Sometimes it takes an external voice, the voice of a stranger, to say "come on". To remind us that we are capable of much more than we let ourselves be.
+I thought about it long after, as more profound than it immediately seemed
 
-Just as that guy I didn't know in the bouldering cave reminded me, I am here to remind you.
+We tell ourselves lies
 
-You are capable of accomplishing scary things.
+We make ourselves believe stories about ourselves that just aren't true
 
-Come on. You got this.
+We convince ourselves we _can't_ do something, because we are afraid of actually failing
+
+and sometimes we need a stranger to look at us
+
+and with fearless confidence remind us that yes
+
+we can do it
+
+We _are_ capable of accomplishing amazing things
+
+And so just as that climber reminded me that day about the route I was climbing,
+
+I am here as a stranger to remind you that yes:
+
+you _can_ do it.
+
+You got this.
 
 ---
 
