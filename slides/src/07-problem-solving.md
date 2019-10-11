@@ -31,12 +31,6 @@ and those ratings are generally based on the crux.
 
 ...
 
-The key, with the crux, is get yourself into the right position that you can make that one move.
-
-And then plan your route backwards from there.
-
-...
-
 In the context of doing something scary, I'd consider the crux
 
 the absolute scariest part. The thing you are most terrified of.

@@ -57,7 +57,11 @@ We _are_ capable of accomplishing amazing things
 
 And so just as that climber reminded me that day about the route I was climbing,
 
-I am here as a stranger to remind you that yes:
+I am here as a stranger to remind you that,
+
+whatever that fear is that you're trying to overcome,
+
+yes:
 
 you _can_ do it.
 

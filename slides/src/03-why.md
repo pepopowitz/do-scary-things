@@ -192,7 +192,9 @@ Or it might be **our parents act fearful** around sharp pointy dog teeth, becaus
 
 ---
 
-TODO: image of Lila
+Layout: inverse
+
+<!-- .slide: data-background="/images/lila.jpg" -->
 
 Notes:
 
@@ -222,7 +224,9 @@ Even if it never really was one.
 
 ---
 
-TODO: image of Olivia with snakes
+Layout: inverse
+
+<!-- .slide: data-background="/images/olivia-1.jpg" -->
 
 Notes:
 
@@ -234,7 +238,9 @@ my youngest daughter, Olivia, is absolutely _not_ afraid of snakes.
 
 ---
 
-TODO: zoom of Olivia with snakes
+Layout: inverse
+
+<!-- .slide: data-background="/images/olivia-2.jpg" -->
 
 Notes:
 

@@ -120,7 +120,7 @@ They've been laying seeds for a long time
 
 That's what it takes.
 
-Cultivating a garden - the harvest doesn't come immediately; it comes with persistence, consistency, and just doing the work.
+Cultivating a garden - the harvest doesn't come immediately; it comes with persistence, consistency, definitely some luck, and a lot of work.
 
 ...
 

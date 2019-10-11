@@ -706,7 +706,9 @@ Or it might be **our parents act fearful** around sharp pointy dog teeth, becaus
 
 ---
 
-TODO: image of Lila
+Layout: inverse
+
+<!-- .slide: data-background="/images/lila.jpg" -->
 
 Notes:
 
@@ -736,7 +738,9 @@ Even if it never really was one.
 
 ---
 
-TODO: image of Olivia with snakes
+Layout: inverse
+
+<!-- .slide: data-background="/images/olivia-1.jpg" -->
 
 Notes:
 
@@ -748,7 +752,9 @@ my youngest daughter, Olivia, is absolutely _not_ afraid of snakes.
 
 ---
 
-TODO: zoom of Olivia with snakes
+Layout: inverse
+
+<!-- .slide: data-background="/images/olivia-2.jpg" -->
 
 Notes:
 
@@ -1685,12 +1691,6 @@ and those ratings are generally based on the crux.
 
 ...
 
-The key, with the crux, is get yourself into the right position that you can make that one move.
-
-And then plan your route backwards from there.
-
-...
-
 In the context of doing something scary, I'd consider the crux
 
 the absolute scariest part. The thing you are most terrified of.
@@ -1914,7 +1914,7 @@ They've been laying seeds for a long time
 
 That's what it takes.
 
-Cultivating a garden - the harvest doesn't come immediately; it comes with persistence, consistency, and just doing the work.
+Cultivating a garden - the harvest doesn't come immediately; it comes with persistence, consistency, definitely some luck, and a lot of work.
 
 ...
 
@@ -1978,7 +1978,11 @@ We _are_ capable of accomplishing amazing things
 
 And so just as that climber reminded me that day about the route I was climbing,
 
-I am here as a stranger to remind you that yes:
+I am here as a stranger to remind you that,
+
+whatever that fear is that you're trying to overcome,
+
+yes:
 
 you _can_ do it.
 
