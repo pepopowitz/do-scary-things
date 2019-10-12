@@ -24,44 +24,6 @@ Prepare to attack your fear
 
 Trail: Preparation
 
-# Identify your fear
-
-Notes:
-
-The first way to prepare, is to know your fear.
-
-Sometimes this is obvious -
-
-often it's that thing you keep talking about doing...but never start.
-
-But sometimes it is not obvious.
-
----
-
-Trail: Preparation, Identify Your Fear
-
-# Write your obituary
-
-## **What held you back in life?**
-
-<!-- .element: class="fragment" -->
-
-Notes:
-
-Do some time travelling, to the future.
-
-Write your obituary, and answer one question:
-
-(click)
-
-Answer it from perspective of your best friend.
-
-if you can't figure it out....just ASK your best friend.
-
----
-
-Trail: Preparation
-
 # Find a squad
 
 Notes:
@@ -88,17 +50,15 @@ Trail: Preparation, Find A Squad
 
 <!-- .element: class="fragment" -->
 
-## **Opportunities**
-
-<!-- .element: class="fragment" -->
-
 Notes:
 
 1 - Feel comfortable "failing" with them
 
 ...
 
-2 - Hold each other accountable - don't be ruinously empathic
+2 - Hold each other accountable
+
+ruinous empathy
 
 Give difficult feedback because you **care**
 
@@ -112,33 +72,7 @@ And work through those fears and failures together.
 
 ...
 
-4 -
-
-There's a stigma around accepting that friends bring you opportunities
-
-especially as humble midwesterners
-
-But if you feel like you wouldn't pass on opportunities to them, or they wouldn't pass on opportunities to you,
-
-do you have the right squad?
-
----
-
-Layout: inverse
-
-<!-- .slide: data-background="/images/duck.jpg" -->
-
-Notes:
-
-Just like talking to the duck helps you work through coding problems
-
-and dreams seem less scary after you talk them over with someone
-
-Talking to your squad can help you keep your fears in perspective.
-
-...
-
-and that's important to help you...
+You and your squad are going to...
 
 ---
 

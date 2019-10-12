@@ -45,29 +45,9 @@ In regards to snowboarding
 
 but so much more.
 
----
-
-Trail: Perspective
-
-> You really are pushing yourself if you do something and it goes horrible.
-
-Aziz Ansari
-
-Notes:
-
-about working on his comedy at seedy comedy clubs
-
-"If I'm just killing all the time, I'm just worried too much about having a good time and doing a good show in that moment.
-
-If I do a set where I just completely tank, that means I really went for something and tried something difficult.
-
 ...
 
-let's embrace failure as a means to learn
-
-and get better
-
-and when you _do_ fail...
+And when you do fall...
 
 ---
 

@@ -208,18 +208,6 @@ Who _doesn't_ have fears about work?
 
 Layout: inverse
 
-<!-- .slide: data-background="/images/friends.jpg" -->
-
-Notes:
-
-then there's another subclass of fears
-
-that deal with **acceptance from our peers**
-
----
-
-Layout: inverse
-
 <!-- .slide: data-background="/images/peacock.jpg" -->
 
 Notes:

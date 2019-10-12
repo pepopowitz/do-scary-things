@@ -187,29 +187,13 @@ There are some tricks we can play with our mind to overcome fear.
 
 There are powerful things we can do with our imagination and time.
 
----
+travel ahead - visualize yourself on the other side of a challenge
 
-Trail: Presence, Time Travel
+"This time next week, I'll be sitting down with a drink, having just quit my job."
 
-# Invent Milestones
+Visualize yourself five years from now
 
-Notes:
-
-If I'm going to start my own company & I'm panicking,
-
-"This time next week, I will be sitting down with a beer, after having quit my job to start my own company."
-
----
-
-Trail: Presence, Time Travel
-
-# Envision Future You
-
-Notes:
-
-The you three years from now
-
-who is giving their first keynote
+giving your first keynote
 
 looking back on this first-ever talk you're about to give.
 

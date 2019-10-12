@@ -391,18 +391,6 @@ Who _doesn't_ have fears about work?
 
 Layout: inverse
 
-<!-- .slide: data-background="/images/friends.jpg" -->
-
-Notes:
-
-then there's another subclass of fears
-
-that deal with **acceptance from our peers**
-
----
-
-Layout: inverse
-
 <!-- .slide: data-background="/images/peacock.jpg" -->
 
 Notes:
@@ -772,11 +760,7 @@ Notes:
 
 That's some science behind fear.
 
-Let's explore what we _feel_ when we fear something.
-
-These fears that I'm interested in - of **rejection**
-
-They come from a few emotional places.
+Let's explore how we develop fears of rejection
 
 ---
 
@@ -960,44 +944,6 @@ Prepare to attack your fear
 
 Trail: Preparation
 
-# Identify your fear
-
-Notes:
-
-The first way to prepare, is to know your fear.
-
-Sometimes this is obvious -
-
-often it's that thing you keep talking about doing...but never start.
-
-But sometimes it is not obvious.
-
----
-
-Trail: Preparation, Identify Your Fear
-
-# Write your obituary
-
-## **What held you back in life?**
-
-<!-- .element: class="fragment" -->
-
-Notes:
-
-Do some time travelling, to the future.
-
-Write your obituary, and answer one question:
-
-(click)
-
-Answer it from perspective of your best friend.
-
-if you can't figure it out....just ASK your best friend.
-
----
-
-Trail: Preparation
-
 # Find a squad
 
 Notes:
@@ -1024,17 +970,15 @@ Trail: Preparation, Find A Squad
 
 <!-- .element: class="fragment" -->
 
-## **Opportunities**
-
-<!-- .element: class="fragment" -->
-
 Notes:
 
 1 - Feel comfortable "failing" with them
 
 ...
 
-2 - Hold each other accountable - don't be ruinously empathic
+2 - Hold each other accountable
+
+ruinous empathy
 
 Give difficult feedback because you **care**
 
@@ -1048,33 +992,7 @@ And work through those fears and failures together.
 
 ...
 
-4 -
-
-There's a stigma around accepting that friends bring you opportunities
-
-especially as humble midwesterners
-
-But if you feel like you wouldn't pass on opportunities to them, or they wouldn't pass on opportunities to you,
-
-do you have the right squad?
-
----
-
-Layout: inverse
-
-<!-- .slide: data-background="/images/duck.jpg" -->
-
-Notes:
-
-Just like talking to the duck helps you work through coding problems
-
-and dreams seem less scary after you talk them over with someone
-
-Talking to your squad can help you keep your fears in perspective.
-
-...
-
-and that's important to help you...
+You and your squad are going to...
 
 ---
 
@@ -1629,165 +1547,15 @@ There are some tricks we can play with our mind to overcome fear.
 
 There are powerful things we can do with our imagination and time.
 
----
+travel ahead - visualize yourself on the other side of a challenge
 
-Trail: Presence, Time Travel
+"This time next week, I'll be sitting down with a drink, having just quit my job."
 
-# Invent Milestones
+Visualize yourself five years from now
 
-Notes:
-
-If I'm going to start my own company & I'm panicking,
-
-"This time next week, I will be sitting down with a beer, after having quit my job to start my own company."
-
----
-
-Trail: Presence, Time Travel
-
-# Envision Future You
-
-Notes:
-
-The you three years from now
-
-who is giving their first keynote
+giving your first keynote
 
 looking back on this first-ever talk you're about to give.
-
-...
-
-(pause)
----
-Layout: module
-
-# Problem Solving
-
-Notes:
-
-The next group is Problem Solving.
-
-Which, as developers, we are really good at.
-
-And I recommend a simple approach to solving big, scary problems:
-
----
-
-Layout: list
-
-Trail: Problem Solving
-
-## **1. Identify The Crux**
-
-Notes:
-
-In climbing, there is the notion of "the crux" on every route.
-
-It is the single hardest move on the route
-
-Routes in climbing have ratings,
-
-and those ratings are generally based on the crux.
-
-...
-
-In the context of doing something scary, I'd consider the crux
-
-the absolute scariest part. The thing you are most terrified of.
-
-Get as specific as you can, because step 2....
-
----
-
-Layout: list
-
-Trail: Problem Solving
-
-## 1. Identify The Crux
-
-## **2. Eat The Frog**
-
-Notes:
-
----
-
-Trail: Problem Solving, 2. Eat The Frog
-
-> Eat a live frog first thing in the morning and nothing worse will happen to you the rest of the day.
-
-Mark Twain
-
-Notes:
-
----
-
-Layout: list
-
-Trail: Problem Solving
-
-## 1. Identify The Crux
-
-## 2. Eat The Frog
-
-## **3. Repeat**
-
-Notes:
-
-Find the _next_ scariest part, and figure out a way to address it.
-
-...
-
-And that's a pretty good way to handle any real-life problem.
-
-Especially a big scary one.
-
-Iterate over the scariest parts.
-
-...
-
-And this is pretty similar to the approach DDEisenhower used to manage his time.
-
----
-
-Layout: img-80
-
-Trail: Problem Solving
-
-## Eisenhower Decision Matrix
-
-![Eisenhower Decision Matrix](/images/matrix-important.png)
-
-Notes:
-
-(explain)
-
-but in regards to overcoming fear,
-
-I think it makes more sense as...
-
----
-
-Layout: img-80
-
-Trail: Problem Solving
-
-## **Steve Hicks** Risk Matrix
-
-![Steve Hicks Risk Matrix](/images/matrix-scary.png)
-
-Notes:
-
-Identify the most scary thing....
-Then eat the frog.
-Then the next....
-
-...
-
-And what we're really doing...
-
-is the same thing we do every day as developers.
-
-Breaking a problem down into smaller problems.
 
 ...
 
@@ -1839,29 +1607,9 @@ In regards to snowboarding
 
 but so much more.
 
----
-
-Trail: Perspective
-
-> You really are pushing yourself if you do something and it goes horrible.
-
-Aziz Ansari
-
-Notes:
-
-about working on his comedy at seedy comedy clubs
-
-"If I'm just killing all the time, I'm just worried too much about having a good time and doing a good show in that moment.
-
-If I do a set where I just completely tank, that means I really went for something and tried something difficult.
-
 ...
 
-let's embrace failure as a means to learn
-
-and get better
-
-and when you _do_ fail...
+And when you do fall...
 
 ---
 
@@ -1930,9 +1678,6 @@ Layout: module
 ## Presence
 <!-- .element: class="fragment" -->
 
-## Problem Solving
-<!-- .element: class="fragment" -->
-
 ## Perspective
 <!-- .element: class="fragment" -->
 
@@ -1944,9 +1689,9 @@ Notes:
 
 3 - Maintain a strong mindful and physical presence
 
-4 - Use the problem solving skills you already possess to break problems down
+4 - Maintain perspective - failure is great if it's used for learning and growing.
 
-5 - Maintain perspective - failure is great if it's used for learning and growing.
+xx - Use the problem solving skills you already possess to break problems down
 
 ---
 

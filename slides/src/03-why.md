@@ -258,11 +258,7 @@ Notes:
 
 That's some science behind fear.
 
-Let's explore what we _feel_ when we fear something.
-
-These fears that I'm interested in - of **rejection**
-
-They come from a few emotional places.
+Let's explore how we develop fears of rejection
 
 ---
 

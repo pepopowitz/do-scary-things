@@ -9,9 +9,6 @@ Layout: module
 ## Presence
 <!-- .element: class="fragment" -->
 
-## Problem Solving
-<!-- .element: class="fragment" -->
-
 ## Perspective
 <!-- .element: class="fragment" -->
 
@@ -23,9 +20,9 @@ Notes:
 
 3 - Maintain a strong mindful and physical presence
 
-4 - Use the problem solving skills you already possess to break problems down
+4 - Maintain perspective - failure is great if it's used for learning and growing.
 
-5 - Maintain perspective - failure is great if it's used for learning and growing.
+xx - Use the problem solving skills you already possess to break problems down
 
 ---
 
