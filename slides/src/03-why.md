@@ -8,7 +8,7 @@ Over-simplified, the popular science looks like this:
 
 Footer: false
 
-<!-- .slide: data-background="/images/brain-fear-1.jpg" -->
+<!-- .slide: data-background="/images/brain-fear-1.jpg" data-background-size="90%" -->
 
 Notes:
 
@@ -26,7 +26,7 @@ Like **fear, anger, memory,** and emotions related to **reproduction.**
 
 Footer: false
 
-<!-- .slide: data-background="/images/brain-fear-2.jpg" -->
+<!-- .slide: data-background="/images/brain-fear-2.jpg" data-background-size="90%" -->
 
 Notes:
 
@@ -38,7 +38,7 @@ is to **take sensory inputs**...
 
 Footer: false
 
-<!-- .slide: data-background="/images/brain-fear-3.jpg" -->
+<!-- .slide: data-background="/images/brain-fear-3.jpg" data-background-size="90%" -->
 
 Notes:
 
@@ -52,7 +52,7 @@ It does a pretty solid job of **identifying threats (or non-threats)**
 
 Footer: false
 
-<!-- .slide: data-background="/images/brain-fear-4.jpg" -->
+<!-- .slide: data-background="/images/brain-fear-4.jpg" data-background-size="90%" -->
 
 Notes:
 
@@ -80,7 +80,7 @@ So, the limbic system...
 
 Footer: false
 
-<!-- .slide: data-background="/images/brain-fear-5.jpg" -->
+<!-- .slide: data-background="/images/brain-fear-5.jpg" data-background-size="90%" -->
 
 Notes:
 
@@ -108,7 +108,7 @@ I know it's not a fire. But the smoke alarm, my limbic system, responds quicker 
 
 Footer: false
 
-<!-- .slide: data-background="/images/brain-fear-5.jpg" -->
+<!-- .slide: data-background="/images/brain-fear-5.jpg" data-background-size="90%" -->
 
 Notes:
 
@@ -166,7 +166,7 @@ But most of our fears we learn by association
 
 Footer: false
 
-<!-- .slide: data-background="/images/brain-fear-5.jpg" -->
+<!-- .slide: data-background="/images/brain-fear-5.jpg" data-background-size="90%" -->
 
 Notes:
 

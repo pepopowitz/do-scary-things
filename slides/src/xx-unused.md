@@ -224,3 +224,11 @@ The you three years from now
 who is giving their first keynote
 
 looking back on this first-ever talk you're about to give.
+
+---
+
+## Friday, October 25th
+
+### Building Your First React App
+
+### [stevenhicks.me/react-workshop/2019/10/25](https://stevenhicks.me/react-workshop/2019/10/25)

@@ -44,6 +44,24 @@ Notes: STICKERS!
 
 - thanks to organizers
 
+---
+
+# Content Warning
+
+### Death & Dying
+
+### Unsettling Images
+
+Notes:
+
+Discuss many common fears
+
+Including death & dying
+
+Some images that may be unsettling to you (snakes, spiders, vicious dogs)
+
+...
+
 Let me tell you a little about myself
 
 ---
@@ -148,17 +166,9 @@ I'm a teacher
 
 I currently teach workshops on React and TDD
 
----
+...
 
-## Friday, October 25th
-
-### Building Your First React App
-
-### [stevenhicks.me/react-workshop/2019/10/25](https://stevenhicks.me/react-workshop/2019/10/25)
-
-Notes:
-
-Milwaukee at end of October: react workshop
+Milwaukee at **end of October**: react workshop
 
 ...
 
@@ -485,6 +495,8 @@ I'm hopeful that helping you overcome your fears can change your life like it's 
 
 # \* **I am not a doctor.**
 
+## [stevenhicks.me/find-a-therapist](http://stevenhicks.me/find-a-therapist)
+
 Notes:
 
 A really quick disclaimer:
@@ -510,7 +522,7 @@ Over-simplified, the popular science looks like this:
 
 Footer: false
 
-<!-- .slide: data-background="/images/brain-fear-1.jpg" -->
+<!-- .slide: data-background="/images/brain-fear-1.jpg" data-background-size="90%" -->
 
 Notes:
 
@@ -528,7 +540,7 @@ Like **fear, anger, memory,** and emotions related to **reproduction.**
 
 Footer: false
 
-<!-- .slide: data-background="/images/brain-fear-2.jpg" -->
+<!-- .slide: data-background="/images/brain-fear-2.jpg" data-background-size="90%" -->
 
 Notes:
 
@@ -540,7 +552,7 @@ is to **take sensory inputs**...
 
 Footer: false
 
-<!-- .slide: data-background="/images/brain-fear-3.jpg" -->
+<!-- .slide: data-background="/images/brain-fear-3.jpg" data-background-size="90%" -->
 
 Notes:
 
@@ -554,7 +566,7 @@ It does a pretty solid job of **identifying threats (or non-threats)**
 
 Footer: false
 
-<!-- .slide: data-background="/images/brain-fear-4.jpg" -->
+<!-- .slide: data-background="/images/brain-fear-4.jpg" data-background-size="90%" -->
 
 Notes:
 
@@ -582,7 +594,7 @@ So, the limbic system...
 
 Footer: false
 
-<!-- .slide: data-background="/images/brain-fear-5.jpg" -->
+<!-- .slide: data-background="/images/brain-fear-5.jpg" data-background-size="90%" -->
 
 Notes:
 
@@ -610,7 +622,7 @@ I know it's not a fire. But the smoke alarm, my limbic system, responds quicker 
 
 Footer: false
 
-<!-- .slide: data-background="/images/brain-fear-5.jpg" -->
+<!-- .slide: data-background="/images/brain-fear-5.jpg" data-background-size="90%" -->
 
 Notes:
 
@@ -668,7 +680,7 @@ But most of our fears we learn by association
 
 Footer: false
 
-<!-- .slide: data-background="/images/brain-fear-5.jpg" -->
+<!-- .slide: data-background="/images/brain-fear-5.jpg" data-background-size="90%" -->
 
 Notes:
 
@@ -1325,27 +1337,33 @@ Write this down, commit it to memory, don't forget to do it!
 Layout: list
 Trail: Practice, Rejection Ritual, Why?
 
-## 1. Severs emotional ties
+## 1. Reroutes your automatic responses
 
-## 2. Shifts self-talk
+## 2. Slows you down
 
 <!-- .element: class="fragment" -->
 
-## 3. Habits make decisions for you
+## 3. Shifts your self-talk
+
+<!-- .element: class="fragment" -->
+
+## 4. Habits make decisions for you
 
 <!-- .element: class="fragment" -->
 
 Notes:
 
-1 - you're thinking about this fear logically instead of emotionally
+1 - from something negative to something positive
+
+2 - you're thinking about this fear logically instead of emotionally
 
 it might be that we're slowing it down so PFC can process it
 
-2 - to something positive, instead of dwelling on another failure,
+3 - to something positive, instead of dwelling on another failure,
 
 and wondering what's wrong with you
 
-3 - When you build a habit, your response becomes automatic
+4 - When you build a habit, your response becomes automatic
 
 You don't have to think about it - you're more likely to do the thing you want to do
 
@@ -1354,6 +1372,26 @@ When you brush your teeth in the morning, do you make a decision?
 No, you just do it
 
 ...unless you're a remote worker, and then you just kind of forget for a few days
+
+---
+
+Trail: Practice
+
+# Cognitive Behavioral Therapy (CBT)
+
+Notes:
+
+Rituals and exposure are tools that are more formally used in CBT
+
+Which is a technique used to
+
+reframe negative thinking patterns into positive ones
+
+With CBT, you'll practice being mindful of emotions and thoughts
+
+and work to transform them into productive behaviors
+
+**Therapist**
 
 ...
 
@@ -1829,3 +1867,5 @@ Trail: Resources, Further Reading
 ##### [Rejection Therapy (Jia Jiang)](http://www.rejectiontherapy.com/)
 
 ##### [Power Pose (Amy Cuddy)](https://www.ted.com/talks/amy_cuddy_your_body_language_shapes_who_you_are)
+
+##### [The Complete List of CBT Techniques](https://www.infocounselling.com/list-of-cbt-techniques/)

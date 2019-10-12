@@ -302,6 +302,8 @@ I'm hopeful that helping you overcome your fears can change your life like it's 
 
 # \* **I am not a doctor.**
 
+## [stevenhicks.me/find-a-therapist](http://stevenhicks.me/find-a-therapist)
+
 Notes:
 
 A really quick disclaimer:

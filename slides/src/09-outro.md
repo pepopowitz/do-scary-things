@@ -160,3 +160,5 @@ Trail: Resources, Further Reading
 ##### [Rejection Therapy (Jia Jiang)](http://www.rejectiontherapy.com/)
 
 ##### [Power Pose (Amy Cuddy)](https://www.ted.com/talks/amy_cuddy_your_body_language_shapes_who_you_are)
+
+##### [The Complete List of CBT Techniques](https://www.infocounselling.com/list-of-cbt-techniques/)

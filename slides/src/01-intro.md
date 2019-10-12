@@ -30,6 +30,24 @@ Notes: STICKERS!
 
 - thanks to organizers
 
+---
+
+# Content Warning
+
+### Death & Dying
+
+### Unsettling Images
+
+Notes:
+
+Discuss many common fears
+
+Including death & dying
+
+Some images that may be unsettling to you (snakes, spiders, vicious dogs)
+
+...
+
 Let me tell you a little about myself
 
 ---
@@ -134,17 +152,9 @@ I'm a teacher
 
 I currently teach workshops on React and TDD
 
----
+...
 
-## Friday, October 25th
-
-### Building Your First React App
-
-### [stevenhicks.me/react-workshop/2019/10/25](https://stevenhicks.me/react-workshop/2019/10/25)
-
-Notes:
-
-Milwaukee at end of October: react workshop
+Milwaukee at **end of October**: react workshop
 
 ...
 

@@ -208,27 +208,33 @@ Write this down, commit it to memory, don't forget to do it!
 Layout: list
 Trail: Practice, Rejection Ritual, Why?
 
-## 1. Severs emotional ties
+## 1. Reroutes your automatic responses
 
-## 2. Shifts self-talk
+## 2. Slows you down
 
 <!-- .element: class="fragment" -->
 
-## 3. Habits make decisions for you
+## 3. Shifts your self-talk
+
+<!-- .element: class="fragment" -->
+
+## 4. Habits make decisions for you
 
 <!-- .element: class="fragment" -->
 
 Notes:
 
-1 - you're thinking about this fear logically instead of emotionally
+1 - from something negative to something positive
+
+2 - you're thinking about this fear logically instead of emotionally
 
 it might be that we're slowing it down so PFC can process it
 
-2 - to something positive, instead of dwelling on another failure,
+3 - to something positive, instead of dwelling on another failure,
 
 and wondering what's wrong with you
 
-3 - When you build a habit, your response becomes automatic
+4 - When you build a habit, your response becomes automatic
 
 You don't have to think about it - you're more likely to do the thing you want to do
 
@@ -237,6 +243,26 @@ When you brush your teeth in the morning, do you make a decision?
 No, you just do it
 
 ...unless you're a remote worker, and then you just kind of forget for a few days
+
+---
+
+Trail: Practice
+
+# Cognitive Behavioral Therapy (CBT)
+
+Notes:
+
+Rituals and exposure are tools that are more formally used in CBT
+
+Which is a technique used to
+
+reframe negative thinking patterns into positive ones
+
+With CBT, you'll practice being mindful of emotions and thoughts
+
+and work to transform them into productive behaviors
+
+**Therapist**
 
 ...
 
